@@ -1,0 +1,323 @@
+html
+{
+	scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+h1, h2
+{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+h2
+{
+    font-size: 35px;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+head
+{
+    color: white;
+}
+
+nav ul
+{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0%;
+    margin-left: -15px;
+    margin-top: -8px;
+    margin-bottom: 0px;
+    margin-right: -15px;
+    color: white;
+}
+
+nav a
+{
+    color:white;
+    padding: 22px 22px;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0px 15px;
+    transition: 0.5s;
+}
+
+nav a:hover
+{
+    background-color: gray;
+    color: burlywood;
+    padding: 22px 22px;
+    border-radius: 5px;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+a:visited
+{
+    color: white;
+}
+
+#presentation
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: gray;
+    width: 101%;
+    margin-left: -10px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+#presentation img
+{
+    display: flex;
+    width: 20%;
+    border-radius: 150px;
+    filter:blur(1px);
+    margin-bottom: 50px;
+
+}
+#presentation h1, h2
+{
+    text-align: center;
+    width: 25%;
+}
+
+#presentation h1
+{
+    font-size: 40px;
+}
+#presentation h2
+{
+    font-size: 25px;
+}
+
+#mes_competences
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+#titre_competences
+{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    font-size: 30px;
+}
+
+#titre_competences h2
+{
+    text-align: center;
+}
+
+#les_competences
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#les_competences a
+{
+    color:white
+}
+
+#competence1 ul
+{
+    position:absolute;
+    margin: 0%;
+    padding-bottom: 0%;
+    opacity: 0% ;
+    transition: 0.25s;
+
+}
+
+#competence2 ul
+{
+    position:absolute;
+    margin: 0%;
+    padding: 0%;
+    opacity: 0% ;
+    transition: 0.25s;
+}
+
+#competence1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    position: relative;
+    padding: 20px 50px;
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+#competence2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    padding: 20px 120px;
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+#competence1:hover
+{
+    background-color: white;
+    border: 2px solid gray;
+}
+
+#competence1:hover ul
+{
+    color:black;
+    opacity: 100%;
+    transition:0.5s;
+}
+
+#competence2:hover ul
+{
+    color:black;
+    opacity: 100%;
+    transition: 0.5s;
+}
+
+#competence2:hover
+{
+    background-color: white;
+    border: 2px solid gray;
+}
+
+#realisations
+{
+    margin: 50px 0px;
+}
+#titre_Realisation
+{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    font-size: 30px;
+}
+
+#titre_Realisation h2
+{
+    width: 100%
+}
+
+#les_realisations
+{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around; 
+}
+
+#developpement_professionnel, #mode_projet
+{
+    padding: 0px 200px;
+    text-align: center;
+}
+
+#developpement_professionnel div
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#developpement_professionnel img
+{
+    width: 300px;
+    transition: 0.5s;
+}
+
+#developpement_professionnel img:hover
+{
+   transform: scale(1.5);
+}
+
+#a_propos
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    padding: 50px 0px;
+    margin-left: -10px;
+}
+
+.taille_txt
+{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    text-align: center;
+    width: 45%;
+}
+
+footer
+{
+    display: flex;
+    justify-content: space-around;
+    margin-left: -10px;
+    color: white;
+    background-color: black;
+}
+
+#contact
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 50px 0px;
+}
+
+#contact p
+{
+    margin: 10px;
+}
+
+#contact h4
+{
+    margin: auto;
+}
+
+#contact2
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    margin: 50px 0px;
+}
+
+#contact2 p
+{
+    margin: 5px;
+}
+
+#contact2 img
+{
+    float: right;
+}

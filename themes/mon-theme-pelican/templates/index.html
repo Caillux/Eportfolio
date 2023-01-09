@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+    
+    {% include 'head.html' %}
+    
+    <body>
+		{% include 'header.html'%}
+
+		{% include 'presentation.html'%}
+
+        <section id="mes_competences">
+            <div id="titre_competences">
+                <h2>{{COMPETENCES}}</h2>
+            </div>
+			<section id="les_competences">
+				<a href= #developpement_professionnel>
+					<div id="competence1">
+						<h3>{{TITRE_COMPETENCE1}}</h3>
+						<ul>
+							{% for titre  in COMPETENCE1 %}
+								<li>{{titre}}</li>
+							{% endfor %}
+						</ul>
+					</div>
+				</a>
+				<a href= #developpement_professionnel>
+					<div id="competence2">
+						<h3>{{TITRE_COMPETENCE2}}</h3>
+						<ul>
+							{% for titre  in COMPETENCE2 %}
+								<li>{{titre}}</li>
+							{% endfor %}
+						</ul>
+					</div>
+				</a>
+			</section>
+		</section>
+
+        <section id="realisations">
+			<div id="titre_Realisation">
+                <h2>{{TITRE_REALISATION}}</h2>
+            </div>
+            <section id="les_realisations">
+                
+                {% if articles %}
+                    {% for article in articles_page.object_list %}
+                    <div id='{{LIEN[loop.index-1]}}'>
+                        {{article.content}}
+                        {% if loop.index-1 == 0 %}
+                            <div>
+                                <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/{{article.image}}" alt="error">
+                                <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/{{article.image2}}" alt="error">
+                            </div>
+                        {% endif %}
+                    </div>
+                        
+                    {% endfor %}
+                {% endif %}
+            </section>
+		</section>
+		
+		{% include 'a propos.html'%}
+
+		{% include 'footer.html'%}
+        
+    </body>
+</html>
