@@ -7,6 +7,7 @@ SITENAME = 'ePortfolio Gros Damien'
 SITEURL = ''
 
 PATH = 'content'
+OUTPUT_PATH = 'public'
 
 TIMEZONE = 'Europe/Paris'
 
