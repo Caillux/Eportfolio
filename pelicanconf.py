@@ -53,17 +53,17 @@ COMPETENCES = 'Mes compétences'
 TITRE_COMPETENCE2 = 'B1.4 : Travailler en mode projet'
 
 COMPETENCE2 = (
-	'Analyser les objectifs et les modalités d’organisation d’un projet',
-        'Planifier les activités',
-        'Évaluer les indicateurs de suivi d’un projet et analyser les écarts',
+	'Analyser les objectifs et les modalités d’organisation d’un projet (en approfondissement)',
+        'Planifier les activités (acquis)',
+        'Évaluer les indicateurs de suivi d’un projet et analyser les écarts (en cour d\'acquisition)',
         )
 
 TITRE_COMPETENCE1 = 'B1.6 : Organiser son développement professionnel'
 
 COMPETENCE1 = (
-	 'Mettre en place son environnement d’apprentissage personnel',
-         'Gérer son identité professionnelle',
-         'Développer son projet professionnel'
+	 'Mettre en place son environnement d’apprentissage personnel (acquis)',
+         'Gérer son identité professionnelle (en cour d\'acquisition)',
+         'Développer son projet professionnel (acquis)'
         )
 
 TITRE_REALISATION = 'Réalisations professionnels'
