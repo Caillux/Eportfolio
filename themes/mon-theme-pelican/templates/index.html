@@ -12,7 +12,7 @@
                 <h2>{{COMPETENCES}}</h2>
             </div>
 			<section id="les_competences">
-				<a href= #developpement_professionnel>
+				<a href= #{{LIENS[0]}}>
 					<div id="competence1">
 						<h3>{{TITRE_COMPETENCE1}}</h3>
 						<ul>
@@ -22,11 +22,31 @@
 						</ul>
 					</div>
 				</a>
-				<a href= #developpement_professionnel>
+				<a href= #{{LIENS[1]}}>
 					<div id="competence2">
 						<h3>{{TITRE_COMPETENCE2}}</h3>
 						<ul>
 							{% for titre  in COMPETENCE2 %}
+								<li>{{titre}}</li>
+							{% endfor %}
+						</ul>
+					</div>
+				</a>
+                <a href= #{{LIENS[2]}}>
+					<div id="competence3">
+						<h3>{{TITRE_COMPETENCE3}}</h3>
+						<ul>
+							{% for titre  in COMPETENCE3 %}
+								<li>{{titre}}</li>
+							{% endfor %}
+						</ul>
+					</div>
+				</a>
+                <a href= #{{LIENS[2]}}>
+					<div id="competence4">
+						<h3>{{TITRE_COMPETENCE4}}</h3>
+						<ul>
+							{% for titre  in COMPETENCE4 %}
 								<li>{{titre}}</li>
 							{% endfor %}
 						</ul>
@@ -43,14 +63,8 @@
                 
                 {% if articles %}
                     {% for article in articles_page.object_list %}
-                    <div id='{{LIEN[loop.index-1]}}'>
+                    <div id={{article.slug}}>
                         {{article.content}}
-                        {% if loop.index-1 == 0 %}
-                            <div>
-                                <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/{{article.image}}" alt="error">
-                                <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/{{article.image2}}" alt="error">
-                            </div>
-                        {% endif %}
                     </div>
                         
                     {% endfor %}

@@ -50,14 +50,6 @@ MENU = (
 
 COMPETENCES = 'Mes compétences'
 
-TITRE_COMPETENCE2 = 'B1.4 : Travailler en mode projet'
-
-COMPETENCE2 = (
-	'Analyser les objectifs et les modalités d’organisation d’un projet (en cour)',
-        'Planifier les activités (acquis)',
-        'Évaluer les indicateurs de suivi d’un projet et analyser les écarts (en cour)',
-        )
-
 TITRE_COMPETENCE1 = 'B1.6 : Organiser son développement professionnel'
 
 COMPETENCE1 = (
@@ -66,6 +58,30 @@ COMPETENCE1 = (
          'Développer son projet professionnel (acquis)'
         )
 
+
+TITRE_COMPETENCE2 = 'B1.4 : Travailler en mode projet'
+
+COMPETENCE2 = (
+        'Analyser les objectifs et les modalités d’organisation d’un projet (en cour)',
+        'Planifier les activités (acquis)',
+        'Évaluer les indicateurs de suivi d’un projet et analyser les écarts (en cour)',
+        )
+        
+TITRE_COMPETENCE3 = 'B1.1 : Gérer le patrimoine informatique'
+
+COMPETENCE3 = (
+        'Recenser et identifier les ressources numériques (acquis)',
+        'Exploiter des référentiels, normes et standards adoptés par le prestataire informatique (acquis)'
+        )
+        
+TITRE_COMPETENCE4 = 'B1.2 : Répondre aux incidents et aux demandes d’assistance et d’évolution'
+
+COMPETENCE4 = (
+        'B1.2.1 Collecter, suivre et orienter des demandes (acquis)',
+        'B1.2.3 Traiter des demandes concernant les applications (acquis)'
+        )
+
+        
 TITRE_REALISATION = 'Réalisations professionnels'
 
 TEXT_A_PROPOS = (
@@ -86,9 +102,10 @@ ENTREPRISE = (
         'Bd du 8 mai 1945, 03300 Cusset',
         )
 
-LIEN = (
-    'developpement_professionnel',
-    'mode_projet'
+LIENS = (
+    ('developpement_professionnel'),
+    ('mode_projet'),
+    ('gestion_erreur_AP')
     )
 
 # a modifier
