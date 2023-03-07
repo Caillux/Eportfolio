@@ -133,7 +133,7 @@ a:visited
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 #les_competences a
@@ -300,7 +300,7 @@ a:visited
     padding: 0px 150px;
 }
 
-#developpement_professionnel, #mode_projet, #gestion_erreur_AP
+#Mission_CV_&_Motivation, #Mission_découverte_des_metiers, #gestion_erreur_AP
 {
     margin: 35px 285px;
     padding: 15px 15px;
@@ -309,20 +309,20 @@ a:visited
     text-align: center;
 }
 
-#developpement_professionnel div
+#Mission_CV_&_Motivation div
 {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
 }
 
-#developpement_professionnel img
+#Mission_CV_&_Motivation img
 {
     width: 300px;
     transition: 0.5s;
 }
 
-#developpement_professionnel img:hover
+#Mission_CV_&_Motivation img:hover
 {
    transform: scale(1.5);
 }

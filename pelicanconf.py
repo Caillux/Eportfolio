@@ -53,25 +53,25 @@ COMPETENCES = 'Mes compétences'
 TITRE_COMPETENCE1 = 'B1.6 : Organiser son développement professionnel'
 
 COMPETENCE1 = (
-	 'Mettre en place son environnement d’apprentissage personnel (acquis)',
-         'Gérer son identité professionnelle (en cour d\'acquisition)',
-         'Développer son projet professionnel (acquis)'
+        'B1.6.1 Mettre en place son environnement d’apprentissage personnel (acquis)',
+        'B1.6.3 Gérer son identité professionnelle (en cour d\'acquisition)',
+        'B1.6.4 Développer son projet professionnel (acquis)'
         )
 
 
 TITRE_COMPETENCE2 = 'B1.4 : Travailler en mode projet'
 
 COMPETENCE2 = (
-        'Analyser les objectifs et les modalités d’organisation d’un projet (en cour)',
-        'Planifier les activités (acquis)',
-        'Évaluer les indicateurs de suivi d’un projet et analyser les écarts (en cour)',
+        'B1.4.1 Analyser les objectifs et les modalités d’organisation d’un projet (en cour)',
+        'B1.4.2 Planifier les activités (acquis)',
+        'B1.4.3 Évaluer les indicateurs de suivi d’un projet et analyser les écarts (en cour)',
         )
         
 TITRE_COMPETENCE3 = 'B1.1 : Gérer le patrimoine informatique'
 
 COMPETENCE3 = (
-        'Recenser et identifier les ressources numériques (acquis)',
-        'Exploiter des référentiels, normes et standards adoptés par le prestataire informatique (acquis)'
+        'B1.1.1 Recenser et identifier les ressources numériques (acquis)',
+        'B1.1.2 Exploiter des référentiels, normes et standards adoptés par le prestataire informatique (acquis)'
         )
         
 TITRE_COMPETENCE4 = 'B1.2 : Répondre aux incidents et aux demandes d’assistance et d’évolution'
@@ -103,8 +103,8 @@ ENTREPRISE = (
         )
 
 LIENS = (
-    ('developpement_professionnel'),
-    ('mode_projet'),
+    ('Mission_CV_&_Motivation'),
+    ('Mission_découverte_des_metiers'),
     ('gestion_erreur_AP')
     )
 

@@ -3,7 +3,7 @@ Date: 2023-01-23 15:30
 Modified: 2023-01-23 15:30
 Category: Python
 Tags: pelican, publishing
-Slug: mode_projet
+Slug: Mission_découverte_des_metiers
 Authors: Gros damien
 Summary: une brève introduction au langage Python
 
