@@ -12,4 +12,4 @@ Summary: une brève introduction au langage Python
 Le but du projet était la réalisation d'une station météorologique situé dans une zone isolée.
 Cela comprenait, l'analyse pour la compréhension du cahier des charges, l'organisation des tâches, dans un temps données avec un suivi de l'avancement sous forme de revu de projet.
 
-réalisation d'une recherche sur le metier de developpeur front-end en groupe de deux avec réalisation d'un diaporama
+réalisation d'une recherche sur le métier de développeur front-end en groupe de deux avec réalisation d'un diaporama

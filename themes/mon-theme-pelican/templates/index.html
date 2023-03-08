@@ -9,49 +9,24 @@
 
         <section id="mes_competences">
             <div id="titre_competences">
-                <h2>{{COMPETENCES}}</h2>
+                <h2>{{TITRE_COMPETENCES}}</h2>
             </div>
 			<section id="les_competences">
-				<a href= #{{LIENS[0]}}>
-					<div id="competence1">
-						<h3>{{TITRE_COMPETENCE1}}</h3>
-						<ul>
-							{% for titre  in COMPETENCE1 %}
-								<li>{{titre}}</li>
-							{% endfor %}
-						</ul>
-					</div>
-				</a>
-				<a href= #{{LIENS[1]}}>
-					<div id="competence2">
-						<h3>{{TITRE_COMPETENCE2}}</h3>
-						<ul>
-							{% for titre  in COMPETENCE2 %}
-								<li>{{titre}}</li>
-							{% endfor %}
-						</ul>
-					</div>
-				</a>
-                <a href= #{{LIENS[2]}}>
-					<div id="competence3">
-						<h3>{{TITRE_COMPETENCE3}}</h3>
-						<ul>
-							{% for titre  in COMPETENCE3 %}
-								<li>{{titre}}</li>
-							{% endfor %}
-						</ul>
-					</div>
-				</a>
-                <a href= #{{LIENS[2]}}>
-					<div id="competence4">
-						<h3>{{TITRE_COMPETENCE4}}</h3>
-						<ul>
-							{% for titre  in COMPETENCE4 %}
-								<li>{{titre}}</li>
-							{% endfor %}
-						</ul>
-					</div>
-				</a>
+                
+                {% set indice = 0 %}
+                {% for i in range(LIENS | length) %}
+                    <a href= #{{LIENS[i]}}>
+                        <div id={{NUM_COMPETENCE[i]}}>
+                            <h3>{{COMPETENCES[i][0]}}</h3>
+                            <ul>
+                                {% for titre in COMPETENCES[i][1] %}
+                                    <li>{{titre}}</li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </a>
+                    {% endfor %}
+                    
 			</section>
 		</section>
 

@@ -48,41 +48,39 @@ MENU = (
 	('#bas', 'Contact'),
         )
 
-COMPETENCES = 'Mes compétences'
+TITRE_COMPETENCES = 'Mes compétences'
 
-TITRE_COMPETENCE1 = 'B1.6 : Organiser son développement professionnel'
+NUM_COMPETENCE = ('competence1', 'competence2', 'competence3', 'competence4', )
 
-COMPETENCE1 = (
-        'B1.6.1 Mettre en place son environnement d’apprentissage personnel (acquis)',
-        'B1.6.3 Gérer son identité professionnelle (en cour d\'acquisition)',
-        'B1.6.4 Développer son projet professionnel (acquis)'
-        )
-
-
-TITRE_COMPETENCE2 = 'B1.4 : Travailler en mode projet'
-
-COMPETENCE2 = (
-        'B1.4.1 Analyser les objectifs et les modalités d’organisation d’un projet (en cour)',
+COMPETENCES = (
+    (
+        'B1.1 : Gérer le patrimoine informatique',
+        ('B1.1.1 Recenser et identifier les ressources numériques (acquis)',
+        'B1.1.2 Exploiter des référentiels, normes et standards adoptés par le prestataire informatique (acquis)')
+    ),
+    
+    (
+        'B1.2 : Répondre aux incidents et aux demandes d’assistance et d’évolution',
+        ('B1.2.1 Collecter, suivre et orienter des demandes (acquis)',
+        'B1.2.3 Traiter des demandes concernant les applications (acquis)')
+    ),
+    
+    (
+        ('B1.4 : Travailler en mode projet'),
+        ('B1.4.1 Analyser les objectifs et les modalités d’organisation d’un projet (en cours)',
         'B1.4.2 Planifier les activités (acquis)',
-        'B1.4.3 Évaluer les indicateurs de suivi d’un projet et analyser les écarts (en cour)',
-        )
+        'B1.4.3 Évaluer les indicateurs de suivi d’un projet et analyser les écarts (en cours)',)
+    ),
         
-TITRE_COMPETENCE3 = 'B1.1 : Gérer le patrimoine informatique'
-
-COMPETENCE3 = (
-        'B1.1.1 Recenser et identifier les ressources numériques (acquis)',
-        'B1.1.2 Exploiter des référentiels, normes et standards adoptés par le prestataire informatique (acquis)'
-        )
+    (
+        ('B1.6 : Organiser son développement professionnel'),
+        ('B1.6.1 Mettre en place son environnement d’apprentissage personnel (acquis)',
+        'B1.6.3 Gérer son identité professionnelle (en cours d\'acquisition)',
+        'B1.6.4 Développer son projet professionnel (acquis)')
+    )
+)
         
-TITRE_COMPETENCE4 = 'B1.2 : Répondre aux incidents et aux demandes d’assistance et d’évolution'
-
-COMPETENCE4 = (
-        'B1.2.1 Collecter, suivre et orienter des demandes (acquis)',
-        'B1.2.3 Traiter des demandes concernant les applications (acquis)'
-        )
-
-        
-TITRE_REALISATION = 'Réalisations professionnels'
+TITRE_REALISATION = 'Réalisations professionnelles'
 
 TEXT_A_PROPOS = (
         'Bonjour, je m\'appelle GROS Damien je suis née en 2003 j\'ai donc 19 ans et je suis actuellement étudiant en BTS SIO au lycée général et technologique Albert Londres à Cusset.',
@@ -103,9 +101,10 @@ ENTREPRISE = (
         )
 
 LIENS = (
-    ('CV_Motivation'),
+    ('gestion_erreur'),
+    ('gestion_erreur'),
     ('découverte_metiers'),
-    ('gestion_erreur')
+    ('CV_Motivation')
     )
 
 # a modifier
