@@ -16,7 +16,7 @@
                 {% set indice = 0 %}
                 {% for i in range(LIENS | length) %}
                     <a href= #{{LIENS[i]}}>
-                        <div id={{NUM_COMPETENCE[i]}}>
+                        <div class={{NUM_COMPETENCE[i]}}>
                             <h3>{{COMPETENCES[i][0]}}</h3>
                             <ul>
                                 {% for titre in COMPETENCES[i][1] %}
