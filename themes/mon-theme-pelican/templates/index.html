@@ -63,9 +63,9 @@
                 
                 {% if articles %}
                     {% for article in articles_page.object_list %}
-                    <div id={{article.slug}}>
-                        {{article.content}}
-                    </div>
+                        <div id={{article.slug}}>
+                            {{article.content}}
+                        </div>
                         
                     {% endfor %}
                 {% endif %}

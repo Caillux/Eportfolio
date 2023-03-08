@@ -3,12 +3,12 @@ Date: 2023-03-07 11:00
 Modified: 2023-03-07 11:00
 Category: Python
 Tags: pelican, publishing
-Slug: gestion_erreur_AP
+Slug: gestion_erreur
 Authors: Gros damien
 Summary: une brève introduction au langage Python
 
                     
-####réalisation d'un projet en équipe de 2.
+###réalisation d'un projet en équipe de 2.
 
 Réalisation d'un projet de gestion des erreur en groupe de 2 personnes. 
 Le but de cette mission était d'analyser une application de gestion de Session de formation afin de trouver les différente erreur du programme ou valeur aberrante possible dans l’application pour ajouter une gestion de ces erreurs.

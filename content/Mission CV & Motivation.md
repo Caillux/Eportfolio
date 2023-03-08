@@ -3,7 +3,7 @@ Date: 2023-01-23 15:30
 Modified: 2023-01-23 15:30
 Category: Python
 Tags: pelican, publishing
-Slug: Mission_CV_&_Motivation
+Slug: CV_Motivation
 Authors: Gros Damien
 Summary: une brève introduction au langage Python
 image: cv.png
@@ -21,7 +21,7 @@ Cette mission a également fait l'objet de la réalisation de lettre de motivati
 
 Cette mission a permis de pouvoir développer mon projet professionnel en déterminant une entreprise ou postuler ainsi qu'en accomplissant un CV et 	une lettre de motivation en rapport avec la demande de stage envisagée
 	
-Cette mission a mise en place les prémissent de mon identité professionnel en mobilisant les compétences :
+####Cette mission a mise en place les prémissent de mon identité professionnel en mobilisant les compétences :
 
 - B1.6.3 Gérer son identité professionnelle
 - B1.6.3 Développer son projet professionnel

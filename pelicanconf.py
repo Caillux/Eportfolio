@@ -103,9 +103,9 @@ ENTREPRISE = (
         )
 
 LIENS = (
-    ('Mission_CV_&_Motivation'),
-    ('Mission_découverte_des_metiers'),
-    ('gestion_erreur_AP')
+    ('CV_Motivation'),
+    ('découverte_metiers'),
+    ('gestion_erreur')
     )
 
 # a modifier
