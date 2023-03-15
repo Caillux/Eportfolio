@@ -3,20 +3,27 @@ Date: 2023-03-07 11:00
 Modified: 2023-03-07 11:00
 Category: Python
 Tags: pelican, publishing
-Slug: gestion_erreur
+Slug: Creation_session_SNCF
 Authors: Gros damien
-Summary: une brève introduction au langage Python
+Summary: Ajout de gestion d'erreur de valeur erroné dans l'application de gestion de session de formation de la SNCF
 
                     
-###Réalisation d’un projet en équipe de 2.
+###Gestion d'une application de création de session de formation de la SNCF
+
+####Contexte
 
 Réalisation d’un projet de gestion des erreurs en groupe de 2 personnes. Le but de cette mission était d’analyser une application de gestion de Session de formation afin de trouver les différentes erreurs du programme ou valeur aberrante possible dans l’application pour ajouter une gestion de ces erreurs. Pour cela il était demandé de créer un ticket par problème de valeur trouver lors des différents tests d’entrée de valeur dans les différents champs de l’application, et de régler et ajouter la gestion de l’erreur sur une branche prévue à la résolution du ticket.
 
 Il a donc fallu dans un premier temps effectuer différents contrôle lors de la phase de travail préparatoire. Cette phase c’est fait en rentrant différentes valeurs aberrante (que l’application aurait dû refuser) dans les différents champs pour repérer les champs qui accepter des valeurs aberrantes et ainsi former le ticket conforme au champ et au problème rencontrer
 
+####Environnement technologique
+
 Ces différents tickets devaient être crée à partir de la forge logicielle framagit et expliquer avec précision en commentaire le problème pour que la 2ᵉ personne du binôme puisse comprendre et travailler sur le problème lui aussi
 
 La réalisation des solutions à ces différents tickets s’est faite sur une branche du dépôt spécifique au ticket résolu.
+L'utilisation du langage du programmation python, du logiciel Geany et d'un ordinateur sous GNU/Linux Debian.
+
+####Compétences mobilisé
 
 Cette mission a demandé la mobilisation des compétences suivantes :
 
