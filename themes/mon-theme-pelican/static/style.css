@@ -207,11 +207,11 @@ a:visited
     padding: 0px 150px;
 }
 
-#CV_Motivation, #découverte_metiers, #Creation_session_SNCF, #AMAphp_1a
+#CV_Motivation, #découverte_metiers, #Creation_session_SNCF, #AMAphp_1a, #AMAP_auvergne
 {
     margin: 35px 285px;
-    margin-left: 25%;
-    width: 50%;
+    margin-left: 15%;
+    width: 70%;
     padding: 15px 15px;
     border: 2px solid gray;
     border-radius: 50px ;
@@ -241,7 +241,7 @@ a:visited
 
 #CV_Motivation img:hover
 {
-   transform: scale(2);
+   transform: scale(1.5);
 }
 
 #a_propos

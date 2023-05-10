@@ -50,7 +50,7 @@ MENU = (
 
 TITRE_COMPETENCES = 'Mes compétences'
 
-NUM_COMPETENCE = ('competence1', 'competence2', 'competence3', 'competence4', )
+NUM_COMPETENCE = ('competence1', 'competence2', 'competence3', 'competence4', 'competence5' )
 
 COMPETENCES = (
     (
@@ -63,6 +63,12 @@ COMPETENCES = (
         'B1.2 : Répondre aux incidents et aux demandes d’assistance et d’évolution',
         ('B1.2.1 Collecter, suivre et orienter des demandes (acquis)',
         'B1.2.3 Traiter des demandes concernant les applications (acquis)')
+    ),
+    
+    (
+        ('B1.3 : Développer la présence en ligne de l’organisation'),
+        ('B1.3.1 : Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques',
+         'B1.3.3 : Participer à l’évolution d’un site Web exploitant les données de l’organisation')
     ),
     
     (
@@ -101,10 +107,11 @@ ENTREPRISE = (
         )
 
 LIENS = (
-    ('gestion_erreur'),
-    ('gestion_erreur'),
+    ('AMAphp_1a'),
+    ('Creation_session_SNCF'),
     ('découverte_metiers'),
-    ('CV_Motivation')
+    ('CV_Motivation'),
+    ('AMAP_auvergne')
     )
 
 # a modifier

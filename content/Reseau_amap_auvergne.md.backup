@@ -1,14 +1,14 @@
 Title: gestion de ticket
-Date: 2023-05-08 17:00
-Modified: 2023-05-08 17:00
+Date: 2023-05-10 15:00
+Modified: 2023-05-08 15:00
 Category: Python
 Tags: pelican, publishing
-Slug: AMAphp_1a
+Slug: AMAP_auvergne
 Authors: Gros damien
-Summary: Gestion de ticket pour l'application web AMAphp version 1a 
+Summary: Mission réalisation du site de présentation du réseau AMAP Auvergne avec DjangoCMS
 
                     
-###Gestion de ticket d'une application web de gestion de panier et de paysans AMAphp
+###Réalisation du site de présentation du réseau AMAP Auvergne avec DjangoCMS
 
 ####Contexte
 ![mon image](./theme/images/acceuil_AMAphp.png)
@@ -21,7 +21,6 @@ Nous avions ensuite crée un ticket sur la forge logicielle framagit qui visée 
 
 
 Le ticket produit sur framagit devait contenir 
-
 - Une description des incidents (la description et l'effet de l'incident)
 - une analyse des causes du problème qui conclue une analyse des corrections possibles
 - une analyse des Dépendances Fonctionnelles avec un shéma relationnel (si la correction envisagée demandée une modification des variables de la base de donnée).
@@ -36,24 +35,14 @@ Suite à la création de ce ticket on devait implémenter le code de la solution
 
 ####Environnement technologique
 
-\_Ces différents tickets devaient être crée à partir de\_
+Ces différents tickets devaient être crée à partir de la forge logicielle framagit et expliquer avec précision l'incident rencontré et l'analyse de résolution du problème avant de commencer le code
 
-- -Gitlab-CE et expliquer avec précision l'incident rencontré et l'analyse de résolution du problème avant de commencer le code
-- -Sur une branche du dépot spécifique au ticket résolu
-
-\_Utilisation de\_
-
-- -PHP
-- -IDE NetBeans
-- -Frameword Symfony
-- -GNU/Linux Debian
+La réalisation des solutions à ces différents tickets s’est faite sur une branche du dépôt spécifique au ticket résolu.
+L'utilisation du langage de programmation PHP, de l’environnement de développement netbeans, du framework symfony et d'un ordinateur sous GNU/Linux Debian.
 
 ####Compétences mobilisé
 
 Cette mission a demandé la mobilisation des compétences suivantes :
 
-- B1.1.2 Exploiter des référentiels, normes et standards adoptés par le prestataire informatique (acquis par l'acquisition de l'utilisation du framework symfony).
-- B1.2.1 Traiter des demandes concernant les services réseau et système, applicatifs(**...**).
-- B1.2.3 Traiter des demandes concernant les applications(encore en cour d'acquisition mais un commencement de l'acquisition par le traitement des rapport d'incident utilisateurs).
-- B1.6 Mettre en œuvre des outils et stratégies de veille informationnelle(**...**)
+- B1.1.2 Exploiter des référentiels, normes et standards adoptés par le prestataire informatique (acquis).
 
