@@ -7,7 +7,6 @@ Slug: AMAphp_1a
 Authors: Gros damien
 Summary: Gestion de ticket pour l'application web AMAphp version 1a 
 
-                    
 ###Gestion de ticket d'une application web de gestion de panier et de paysans AMAphp
 
 ####Contexte
@@ -17,7 +16,7 @@ Réalisation d'un projet de gestion de ticket dans le contexte du projet AMAP av
 Pour cette mission plusieurs rapports d’erreur dans l'application on était fait, nous avions à choisir un de ces rapports d’erreurs à traiter (ce choix était irréversible).
 ![mon image](./theme/images/ticket_incident.png)
 
-Nous avions ensuite crée un ticket sur la forge logicielle framagit qui visée à répondre à la problématique de ce rapport d'erreur. 
+Nous avions ensuite créé un ticket sur la forge logicielle framagit qui visée à répondre à la problématique de ce rapport d'erreur. 
 
 
 Le ticket produit sur framagit devait contenir 
@@ -53,7 +52,7 @@ Suite à la création de ce ticket on devait implémenter le code de la solution
 Cette mission a demandé la mobilisation des compétences suivantes :
 
 - B1.1.2 Exploiter des référentiels, normes et standards adoptés par le prestataire informatique (acquis par l'acquisition de l'utilisation du framework symfony).
-- B1.2.1 Traiter des demandes concernant les services réseau et système, applicatifs(**...**).
-- B1.2.3 Traiter des demandes concernant les applications(encore en cour d'acquisition mais un commencement de l'acquisition par le traitement des rapport d'incident utilisateurs).
+- B1.2.3 Traiter des demandes concernant les applications(encore en cours d'acquisition mais un commencement de l'acquisition par le traitement des rapports d'incident utilisateurs).
 - B1.6 Mettre en œuvre des outils et stratégies de veille informationnelle(**...**)
+
 
