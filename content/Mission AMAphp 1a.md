@@ -51,8 +51,10 @@ Suite à la création de ce ticket on devait implémenter le code de la solution
 
 Cette mission a demandé la mobilisation des compétences suivantes :
 
-- B1.1.2 Exploiter des référentiels, normes et standards adoptés par le prestataire informatique (acquis par l'acquisition de l'utilisation du framework symfony).
-- B1.2.3 Traiter des demandes concernant les applications(encore en cours d'acquisition mais un commencement de l'acquisition par le traitement des rapports d'incident utilisateurs).
-- B1.6 Mettre en œuvre des outils et stratégies de veille informationnelle(**...**)
-
+- **B1.1.2 Exploiter des référentiels, normes et standards adoptés par le prestataire informatique**
+ (acquis par l'acquisition de l'utilisation du framework symfony).
+- **B1.2.3 Traiter des demandes concernant les applications**
+(encore en cours d'acquisition mais un commencement de l'acquisition par le traitement des rapports d'incident utilisateurs).
+- **B1.6 Mettre en œuvre des outils et stratégies de veille informationnelle**
+(...)
 
