@@ -57,4 +57,3 @@ Cette mission a demandé la mobilisation des compétences suivantes :
 (encore en cours d'acquisition mais un commencement de l'acquisition par le traitement des rapports d'incident utilisateurs).
 - **B1.6 Mettre en œuvre des outils et stratégies de veille informationnelle**
 (...)
-
