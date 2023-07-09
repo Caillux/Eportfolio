@@ -21,7 +21,7 @@ La mission consister à gérer le site du réseau des AMAP Haut-normand en ajout
 
 ####Environnement technologique
 
-\_Utilisation de\_
+jsp_Utilisation de
 
 - -Django CMS
 - -Serveur Apache

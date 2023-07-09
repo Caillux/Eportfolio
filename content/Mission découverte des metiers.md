@@ -17,20 +17,26 @@ Cette mission était la première mission de la progression d'Atelier Profession
 Une présentation des métiers ont d'abord était faite par le professeur :
 
 a) Développement
+
 - Développeur / développeuse informatique
 - Développeur / développeuse web
 - Développeur / développeuse informatique (java)
 - Développeur – Développeuse Web (agilité, lead)
 - Développeur Full Stack
 - Développeur Application Mobile
+
 b) Bases de données
+
 - Administratrice Base de données
 - Administrateur de bases de données / Administratrice de bases de données (mysql)
 - Programmeur SQL
+q
 c) Cybersécurité
+
 - Analyste
 - Pentester
 - SOC
+
 d) DevOps
 
 puis par groupe de deux nous avions pour mission de faire une recherche sur les technologies utilisées par les métiers suivant :
@@ -54,7 +60,6 @@ cette présentation devait porter sur :
 et respecter les règle suivante :
 
 - la définissions d'un gabarit personnel : la présentation ne devait pas reposer sur un modèle existant mais sur un style du client à partir de la charte graphique définie par le logo 2lo
-- Intégrer le logo 2lo
 
 ![mon image](./theme/images/2lo.png)
 
@@ -65,7 +70,7 @@ et respecter les règle suivante :
     
 ####Environnement technologique
 
-\_Utilisation de\_
+Utilisation de
 
 - -FreeMind
 - -Logiciel LibreOffice Impress
@@ -74,6 +79,7 @@ et respecter les règle suivante :
 ####Compétences mobilisé
 
 Cette activité a permis de travailler les compétences du sous bloc "Organiser son developpement professionnel" avec :
-- B1.6.1 Metttre en place son envirronnement d'apprentissage personnel (...)
-- B1.6.4 Développer son projet professionnel (...)
+
+* B1.6.1 Metttre en place son envirronnement d'apprentissage personnel (...)
+* B1.6.4 Développer son projet professionnel (...)
 

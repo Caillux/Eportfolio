@@ -40,7 +40,7 @@ Suite à la création de ce ticket on devait implémenter le code de la solution
 - -Gitlab-CE et expliquer avec précision l'incident rencontré et l'analyse de résolution du problème avant de commencer le code
 - -Sur une branche du dépot spécifique au ticket résolu
 
-\_Utilisation de\_
+Utilisation de
 
 - -PHP
 - -IDE NetBeans
