@@ -55,45 +55,46 @@ NUM_COMPETENCE = ('competence1', 'competence2', 'competence3', 'competence4', 'c
 COMPETENCES = (
     (
         'B1.1 : Gérer le patrimoine informatique',
-        ('B1.1.1 Recenser et identifier les ressources numériques (acquis)',
-        'B1.1.2 Exploiter des référentiels, normes et standards adoptés par le prestataire informatique (acquis)')
+        ('B1.1.1 Recenser et identifier les ressources numériques. (acquisition : 3/5)',
+        'B1.1.2 Exploiter des référentiels, normes et standards adoptés par le prestataire informatique (acquisition : 3/5)')
     ),
     
     (
         'B1.2 : Répondre aux incidents et aux demandes d’assistance et d’évolution',
-        ('B1.2.1 Collecter, suivre et orienter des demandes (acquis)',
-        'B1.2.3 Traiter des demandes concernant les applications (acquis)')
+        ('B1.2.1 Collecter, suivre et orienter des demandes (acquisition : /5)',
+        'B1.2.3 Traiter des demandes concernant les applications (acquisition : /5)')
     ),
     
     (
         ('B1.3 : Développer la présence en ligne de l’organisation'),
-        ('B1.3.1 : Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques',
-         'B1.3.3 : Participer à l’évolution d’un site Web exploitant les données de l’organisation')
+        ('B1.3.1 : Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques. (acquisition : /5)',
+         'B1.3.3 : Participer à l’évolution d’un site Web exploitant les données de l’organisation. (acquisition : /5)')
     ),
     
     (
         ('B1.4 : Travailler en mode projet'),
-        ('B1.4.1 Analyser les objectifs et les modalités d’organisation d’un projet (en cours)',
+        ('B1.4.1 Analyser les objectifs et les modalités d’organisation d’un projet (acquisition : /5)',
         'B1.4.2 Planifier les activités (acquis)',
-        'B1.4.3 Évaluer les indicateurs de suivi d’un projet et analyser les écarts (en cours)',)
+        'B1.4.3 Évaluer les indicateurs de suivi d’un projet et analyser les écarts (acquisition : /5)',)
     ),
         
     (
         ('B1.6 : Organiser son développement professionnel'),
-        ('B1.6.1 Mettre en place son environnement d’apprentissage personnel (acquis)',
-        'B1.6.3 Gérer son identité professionnelle (en cours d\'acquisition)',
-        'B1.6.4 Développer son projet professionnel (acquis)')
+        ('B1.6.1 Mettre en place son environnement d’apprentissage personnel (acquisition : /5)',
+        'B1.6.3 Gérer son identité professionnelle (acquisition : /5)',
+        'B1.6.4 Développer son projet professionnel (acquisition : /5)')
     )
 )
         
 TITRE_REALISATION = 'Réalisations professionnelles'
 
 TEXT_A_PROPOS = (
-        'Bonjour, je m\'appelle GROS Damien je suis née en 2003 j\'ai donc 19 ans et je suis actuellement étudiant en BTS SIO au lycée général et technologique Albert Londres à Cusset.',
+        'Bonjour, je m\'appelle GROS Damien je suis née en 2003 j\'ai donc 20 ans et je suis actuellement étudiant en BTS SIO au lycée général et technologique Albert Londres à Cusset.',
         'Ce BTS, comporte deux spécialités, une spécialité tournée vers le développement et l\'autre tourné vers le réseau. J\'ai pour ma part choisi la première, Solutions Logicielles et Applications Métiers (SLAM);',
         'La spécialité SLAM nous forme au développement Web (frameworks Symfony et Django / Front-End avec le framework Bootstrap. Mais également au développement d\'application multi-plateformes (JavaFX), d\'applications mobiles Android et sur l\'analyse et l\'administration des bases de données.',
         'Avant cela j\'ai obtenu un BAC STI2D option SIN qui nous a formé à du C++ (Arduino) et à quelques notions de PHP',
-	'Dans la vie je m\'intéresse à beaucoup de chose différente, je suis de nature plutôt curieuse mais avant tout j\'aime le volley et les jeux vidéos',
+	    'Dans la vie je m\'intéresse à beaucoup de chose différente, je suis de nature plutôt curieuse mais avant tout j\'aime le volley et les jeux vidéos',
+        'bienvenu à vous dans ce portfolio qui témoigne de ma progression dans la formation du BTS SIO Option SLAM.'
          )
 CONTACT = (
         'Mail : Dgros398@protonmail.com',

@@ -14,7 +14,7 @@ Summary: Réalisation d'une recherche resultant une présentation oral sur un m�
 
 Cette mission était la première mission de la progression d'Atelier Professionnel. Elle avait pour but la découverte des métiers de l'informatique et leur rapport avec la spécialisation SLAM (Solution Logiciel et Application Métier) du BTS, pour permettre aux étudiants de réfléchir à leur avenir d'informaticien et ainsi de pouvoir faire un choix réfléchis sur la spécialité choisi au 2nd semestre qui leur permettrais d'atteindre le métier voulu.
 
-Une présentation des métiers ont d'abord était faite par le professeur :
+Une présentation des métiers a d'abord était fait par le professeur :
 
 a) Développement
 
@@ -30,7 +30,7 @@ b) Bases de données
 - Administratrice Base de données
 - Administrateur de bases de données / Administratrice de bases de données (mysql)
 - Programmeur SQL
-q
+
 c) Cybersécurité
 
 - Analyste
@@ -51,7 +51,7 @@ et permettre la création d'un shéma représentant les différentes association
 
 ![mon image](./theme/images/Technologie.png)
 
-Suite à cette recherche, toujour par groupe de deux sur un des métiers présenter choisi pars le professeur nous devions présenter le métier à l'oral devant la classe avec comme mode de présentation un diaporama réaliser sur un logiciel libre tel que Office Impress.
+Suite à cette recherche, toujours par groupe de deux sur un des métiers présenté choisi pars le professeur nous devions présenter le métier à l'oral devant la classe avec comme mode de présentation un diaporama réaliser sur un logiciel libre tel que Libre Office Impress.
 cette présentation devait porter sur :
     -le but du métier
     -les différentes missions de ce corp de métier
@@ -59,14 +59,14 @@ cette présentation devait porter sur :
 
 et respecter les règle suivante :
 
-- la définissions d'un gabarit personnel : la présentation ne devait pas reposer sur un modèle existant mais sur un style du client à partir de la charte graphique définie par le logo 2lo
+- -La définissions d'un gabarit personnel : la présentation ne devait pas reposer sur un modèle existant mais sur un style correspondant à la charte graphique définie par le logo 2lo, une entreprise fictif servant de support pour l'atelier. 
 
 ![mon image](./theme/images/2lo.png)
 
-- Intégrer différents media (image, vidéo, texte)
-- La présentation devai respecter le droit d'auteur : les sources utilisées (image, vidéo, texte) devaient être compatibles avec son usage (présentation à un client)
-- Intégrer des liens vers les sources éventuelles
-- réalisez un export de votre présentation dans un format publiable sur Internet (ex : format HTML).
+- -Intégrer différents media (image, vidéo, texte)
+- -La présentation devai respecter le droit d'auteur : les sources utilisées (image, vidéo, texte) devaient être compatibles avec son usage (présentation à un client)
+- -Intégrer des liens vers les sources éventuelles
+- -réalisez un export de notre présentation dans un format publiable sur Internet (ex : format HTML).
     
 ####Environnement technologique
 
@@ -80,6 +80,8 @@ Utilisation de
 
 Cette activité a permis de travailler les compétences du sous bloc "Organiser son developpement professionnel" avec :
 
-* B1.6.1 Metttre en place son envirronnement d'apprentissage personnel (...)
-* B1.6.4 Développer son projet professionnel (...)
-
+- **B1.6.1 Metttre en place son envirronnement d'apprentissage personnel**
+- ()
+- **B1.6.4 Développer son projet professionnel**
+- (Acquis par la recherche des différents métiers de l'informatiques, de leurs but et des technologies utilisés afin de choisir une spécialité en accord
+avec le métier visé)

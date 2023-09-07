@@ -25,7 +25,7 @@ l'Interface devait disposer également de bouton "ajouter", "modifier", "supprim
 et le bouton "supprimer" afficherai un pop-up de confirmation qui permmettra la suppression de la ligne selectionnée.
 
 Axilta'2 :
-![image](./theme/images/Axilta2_menu.PNG)
+![image](./theme/images/stage_axis/Axilta2_menu.PNG)
 
 à partir de cette fentre de formation on devait pouvoir acceder à 
 **La fiche de formaion**
@@ -51,7 +51,7 @@ un chronologie devai être constitué de :
 - d'un répertoire(ex : 1-Devis, 3-Formation)
 - d'un ordre d'affichage (ex : Ordre, 3)
 
-![image](./theme/images/ex_type_chrono.jpg)
+![image](./theme/images/stage_axis/ex_type_chrono.jpg)
 
 Pour chaque type de formation il devait être posible de renseigner 1 ou plusieur document composé de :
 - un Libellé (255 caratere, champ obligatoire)
@@ -90,7 +90,7 @@ ces dernieres
 en amont de la créaton de ces tables un diagramme CMD ou UML devait être crée expliquant les dependances entre les
 table existantes et les nouvelles 
 
-![image](./theme/images/shema_dependances.PNG)
+![image](./theme/images/stage_axis/shema_dependances.PNG)
 
 **Programation**  
 Une fois la shéma CMD Validé par le chef de projet et les Tables crées je suis passé à l'implémentation de la fonctionnalité 

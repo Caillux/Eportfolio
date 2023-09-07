@@ -15,17 +15,15 @@ Summary: Mission réalisation du site de présentation du réseau AMAP Auvergne 
 Cette mission consister à l'étude des systèmes de gestion de contenu (CMS).
 Nous disposions d'une machine virtuelle **LAMP** sur laquelle des CMS était installés est accessible via des adresses locales pousser par un serveur **Apache**
 Cette mission concerner le CMS libre et écrit en python **Django CMS* avec une adaptation 
-du thème du réseau AMAP Haut-normand.
+du réseau AMAP Auvergne.
 
 La mission consister à gérer le site du réseau des AMAP Haut-normand en ajoutant et gérant en tant qu'administrateur du site les différentes pages et fonctionnalités associer.
 
 ####Environnement technologique
 
-jsp_Utilisation de
-
-- -Django CMS
-- -Serveur Apache
-- -Machine virtuelle LAMP
+- -Django CMS ()
+- -Serveur Apache (pousse les machine virtuel LAMP)
+- -Machine virtuelle LAMP (poussé par le serveur Apache)
 - -GNU/Linux Debian
 
 ####Compétences mobilisé
@@ -33,7 +31,7 @@ jsp_Utilisation de
 Cette activité a permis de travailler les compétences du sous bloc "Développer la présence en ligne de l’organisation" avec :
 
 - **B1.3.1 Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques**
-la gestion des pages du site AMAP permette la valorisation de l'image de l'organisation en agrémentant le site d'information divers et nécessaire pour présenter le fonctionnement et le principe du réseau AMAP 
+la gestion et l'agrémentation d'informations divers des pages du site AMAP et nécessaire pour présenter le fonctionnement et le principe du réseau AMAP ce qui permet la valorisation de l'image de l'organisation.
 Tous cela devait respecter un cadre légal et juridique en respectant les droits de licences autorisé
 
 - **B1.3.3 Participer à l’évolution d’un site Web exploitant les données de l’organisation**
