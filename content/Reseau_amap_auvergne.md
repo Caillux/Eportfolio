@@ -31,11 +31,10 @@ La mission consister à gérer le site du réseau des AMAP Haut-normand en ajout
 Cette activité a permis de travailler les compétences du sous bloc "Développer la présence en ligne de l’organisation" avec :
 
 - **B1.3.1 Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques**
-la gestion et l'agrémentation d'informations divers des pages du site AMAP et nécessaire pour présenter le fonctionnement et le principe du réseau AMAP ce qui permet la valorisation de l'image de l'organisation.
-Tous cela devait respecter un cadre légal et juridique en respectant les droits de licences autorisé
-
+- (la gestion et l'agrémentation d'informations divers des pages du site AMAP et nécessaire pour présenter le fonctionnement et le principe du réseau AMAP ce qui permet la valorisation de l'image de l'organisation.
+Tous cela devait respecter un cadre légal et juridique en respectant les droits de licences autorisé)
 - **B1.3.3 Participer à l’évolution d’un site Web exploitant les données de l’organisation**
-Nous devions agrémenter le site de nouvelle fonctionnalités et gestions des données des comptes utilisateurs tout en faisant évoluer les différents templates du site du réseau AMAP.
+- (Nous devions agrémenter le site de nouvelle fonctionnalités et gestions des données des comptes utilisateurs tout en faisant évoluer les différents templates du site du réseau AMAP.)
 
 
 

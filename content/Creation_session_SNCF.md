@@ -41,9 +41,9 @@ A savoir:
 Cette mission a demandé la mobilisation des compétences suivantes :
 
 - **B1.1.1 Recenser et identifier les ressources numériques**
-- (?)
+- (gestion de resolution des erreur par le biais de communication et de validation de ticket)
 - **B1.1.2 Exploiter des référentiels, normes et standards adoptés par le prestataire informatique**
-- (Prise en main de l'application terminal et de son language d'écriture (Python) pour traiter la demande)
+- (Prise en main de l'application terminal et de son language d'écriture (Python) pour traiter la demande et respect du PEP-8)
 - **B1.2.1 Collecter, suivre et orienter des demandes**
 - (Test des différentes partie de l'applications afin de crée un ticket, orienter la marche à suivre, l'attribuer à son binôme et de suivre sa résolution. )
 - **B1.2.3 Traiter des demandes concernant les applications**

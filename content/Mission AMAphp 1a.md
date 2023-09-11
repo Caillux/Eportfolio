@@ -52,8 +52,8 @@ Utilisation de
 Cette mission a demandé la mobilisation des compétences suivantes :
 
 - **B1.1.2 Exploiter des référentiels, normes et standards adoptés par le prestataire informatique**
- (Acquis par l'apprentissage et l'utilisation du framework symfony).
+ - (Acquis par l'apprentissage et l'utilisation du framework symfony).
 - **B1.2.3 Traiter des demandes concernant les applications**
-(encore en cours d'acquisition mais un commencement de l'acquisition par le traitement des rapports d'incident utilisateurs).
+- (encore en cours d'acquisition mais un commencement de l'acquisition par le traitement des rapports d'incident utilisateurs).
 - **B1.6 Mettre en œuvre des outils et stratégies de veille informationnelle**
-(...)
+- 

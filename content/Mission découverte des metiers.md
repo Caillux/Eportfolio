@@ -81,7 +81,7 @@ Utilisation de
 Cette activité a permis de travailler les compétences du sous bloc "Organiser son developpement professionnel" avec :
 
 - **B1.6.1 Metttre en place son envirronnement d'apprentissage personnel**
-- 
+
 - **B1.6.4 Développer son projet professionnel**
 - (Acquis par la recherche des différents métiers de l'informatiques, de leurs but et des technologies utilisés afin de choisir une spécialité en accord
 avec le métier visé)
