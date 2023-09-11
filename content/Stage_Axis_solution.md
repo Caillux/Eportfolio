@@ -6,6 +6,7 @@ Tags: pelican, publishing
 Slug: Axis_solution
 Authors: Gros damien
 Summary: Mission durant le stage de fin de première année du BTS SIO, dans l'entreprise Axis Solution
+type: SLAM
 
 #### Contexte 
 La societer Axis est certifier Qualiopi. cette certification vise à attester la qualité du processus de formation. Le fonctionnement interne était avec des tableaux de suivi 

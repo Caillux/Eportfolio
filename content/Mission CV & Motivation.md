@@ -8,6 +8,7 @@ Authors: Gros Damien
 Summary: Réalisation d'un CV et d'une lettre de motivation permettant de trouver et postuler dans une entreprise pour un stage de fin d'année.
 image: cv.png
 image2: lettre_de_motivation.png
+type: SLAM
 
 
 ###Préparation d'une candidature 

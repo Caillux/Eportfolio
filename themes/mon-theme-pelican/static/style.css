@@ -34,7 +34,16 @@ head
     color: white;
 }
 
-nav ul
+#menu
+{
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    z-index: 5;
+}
+
+#menu ul
 {
     background-color: black;
     display: flex;
@@ -48,7 +57,7 @@ nav ul
     color: white;
 }
 
-nav a
+#menu a
 {
     color:white;
     padding: 22px 22px;
@@ -59,7 +68,7 @@ nav a
     transition: 0.5s;
 }
 
-nav a:hover
+#menu a:hover
 {
     background-color: gray;
     color: burlywood;

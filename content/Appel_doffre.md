@@ -6,6 +6,7 @@ Tags: pelican, publishing
 Slug: Appel_doffre
 Authors: Gros damien
 Summary: Réponse d'une appel d'offre d'installation de solution de pc fixe et 		portable pour un établissement scolaire.
+type: SISR
 
 
 ###Réponse à l'appel d'offre de mise en place de solution de pc fixe et portable

@@ -6,6 +6,7 @@ Tags: pelican, publishing
 Slug: découverte_metiers
 Authors: Gros damien
 Summary: Réalisation d'une recherche resultant une présentation oral sur un métier choisi par le professeur
+type: SLAM
 
                     
 #### Découverte des Métiers du developpement
@@ -49,7 +50,7 @@ puis par groupe de deux nous avions pour mission de faire une recherche sur les 
 
 et permettre la création d'un shéma représentant les différentes associations des métiers et les technologies trouvées à l'aide du logiciel libre de mindmap FreeMind.
 
-![mon image](./theme/images/Technologie.png)
+![mon image](./theme/images/decouverte_metier/Technologie.png)
 
 Suite à cette recherche, toujours par groupe de deux sur un des métiers présenté choisi pars le professeur nous devions présenter le métier à l'oral devant la classe avec comme mode de présentation un diaporama réaliser sur un logiciel libre tel que Libre Office Impress.
 cette présentation devait porter sur :

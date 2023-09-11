@@ -6,6 +6,7 @@ Tags: pelican, publishing
 Slug: Creation_session_SNCF
 Authors: Gros damien
 Summary: Test d'une application de gestion de formation et gestions des erreur trouvé par ticket en binôme 
+type: SLAM
 
                     
 ###Gestion d'une application de création de session de formation de la SNCF
