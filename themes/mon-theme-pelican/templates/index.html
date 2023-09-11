@@ -35,14 +35,27 @@
                 <h2>{{TITRE_REALISATION}}</h2>
             </div>
             <section id="les_realisations">
-                
                 {% if articles %}
-                    {% for article in articles_page.object_list %}
-                        <div id={{article.slug}}>
-                            {{article.content}}
-                        </div>
-                        
-                    {% endfor %}
+                    <div id ="real_slam">
+                        <h3>Réalisation orienté developpement</h3>
+                        {% for article in articles_page.object_list %}
+                            {% if article.type == "SLAM" %}
+                                <div id={{article.slug}}>
+                                    {{article.content}}
+                                </div>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                    <div id="real_sisr">
+                        <h3>Réalisation orienté réseau</h3>
+                        {% for article in articles_page.object_list %}
+                            {% if article.type == "SISR" %}
+                                <div id={{article.slug}}>
+                                    {{article.content}}
+                                </div>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
                 {% endif %}
             </section>
 		</section>
