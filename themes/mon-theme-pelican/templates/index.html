@@ -53,7 +53,9 @@
                         {% for article in articles_page.object_list %}
                             {% if article.type == "SISR" %}
                                 <div id={{article.slug}}>
-                                    {{article.content}}
+                                    <div id={{article.style}}>
+                                        {{article.content}}
+                                    </div>
                                 </div>
                             {% endif %}
                         {% endfor %}
