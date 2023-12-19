@@ -7,7 +7,7 @@ Slug: découverte_metiers
 Authors: Gros damien
 Summary: Réalisation d'une recherche resultant une présentation oral sur un métier choisi par le professeur
 type: SLAM
-
+style: contenu
                     
 #### Découverte des Métiers du developpement
 

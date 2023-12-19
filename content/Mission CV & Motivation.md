@@ -9,7 +9,7 @@ Summary: Réalisation d'un CV et d'une lettre de motivation permettant de trouve
 image: cv.png
 image2: lettre_de_motivation.png
 type: SLAM
-
+style: contenu
 
 ###Préparation d'une candidature 
 

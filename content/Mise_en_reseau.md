@@ -7,7 +7,7 @@ Slug: Mise_en_reseau
 Authors: Gros damien
 Summary: Réponse d'une appel d'offre d'installation de solution de mise en reseau d'une salle d'un établissement scolaire.
 type: SISR
-
+style: contenu
 
 ### Réponse à l'appel d'offre de mise en réseau d'une salle de BTS SIO
 

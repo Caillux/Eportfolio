@@ -7,7 +7,7 @@ Slug: AMAP_auvergne
 Authors: Gros damien
 Summary: Mission réalisation du site de présentation du réseau AMAP Auvergne avec DjangoCMS
 type: SLAM
-
+style: contenu
                     
 ###Réalisation du site de présentation du réseau AMAP Auvergne avec DjangoCMS
 

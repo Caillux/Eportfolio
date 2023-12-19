@@ -7,6 +7,7 @@ Slug: AMAphp_1a
 Authors: Gros damien
 Summary: Gestion de ticket pour l'application web AMAphp version 1a 
 type: SLAM
+style: contenu
 
 ###Gestion de ticket d'une application web de gestion de panier et de paysans AMAphp
 
