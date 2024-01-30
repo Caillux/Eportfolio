@@ -1,8 +1,10 @@
 <header>
-    <nav id = menu>
-        <ul>
+    <nav id = menu class="d-flex justify-content-center">
+        <ul class="nav justify-content-center">
             {% for lien, titre  in MENU %}
-            <a href="{{lien}}"><li>{{titre}}</li></a>
+            <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="{{lien}}">{{titre}}</a>
+            </li>
             {% endfor %}
         </ul>
     </nav>
