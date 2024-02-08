@@ -39,7 +39,7 @@ head
     color: white;
 }
 
-#menu
+/* #menu
 {
     position: fixed;
     top: 0%;
@@ -47,11 +47,6 @@ head
     right: 0%;
     background-color: black;
     z-index: 5;
-}
-
-#menu ul
-{
-    
 }
 
 #menu a
@@ -62,17 +57,17 @@ head
     font-weight: bold;
     text-transform: uppercase;
     transition: 0.5s;
-}
+} */
 
-#menu a:hover
+/* #menu a:hover
 {
     background-color: gray;
     color: burlywood;
     padding: 20px 20px;
     border-radius: 5px;
-}
+} */
 
-a
+/* a
 {
     text-decoration: none;
 }
@@ -80,9 +75,9 @@ a
 a:visited
 {
     color: white;
-}
+} */
 
-#presentation
+/* #presentation
 {
     display: flex;
     flex-direction: column;
@@ -93,40 +88,41 @@ a:visited
     margin-left: -10px;
     padding-top: 5%;
     padding-bottom: 5%;
-}
+} */
 
 #presentation img
 {
-    display: flex;
-    width: 20%;
-    border-radius: 150px;
+    /* display: flex; */
+    /* width: 20%; */
+    border-radius: 200px;
     filter:blur(1px);
-    margin-bottom: 50px;
+    /* margin-bottom: 50px; */
 
 }
-#presentation h1, h2
+
+/* #presentation h1, h2
 {
     text-align: center;
     width: 25%;
-}
+} */
 
-#presentation h1
+/* #presentation h1
 {
     font-size: 40px;
 }
 #presentation h2
 {
     font-size: 25px;
-}
+} */
 
-#mes_competences
+/* #mes_competences
 {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
 }
 #titre_competences
-{
+{m
     display: flex;
     flex-direction: row;
     justify-content:center;
@@ -186,7 +182,7 @@ a:visited
     color:black;
     opacity: 100%;
     transition:0.5s;
-}
+} */
 
 #realisations
 {

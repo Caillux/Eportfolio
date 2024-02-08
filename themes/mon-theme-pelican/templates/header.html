@@ -1,9 +1,9 @@
 <header>
-    <nav id = menu class="d-flex justify-content-center">
+    <nav id = menu class="d-flex flex-row text-bg-dark p-3 fixed-top justify-content-center">
         <ul class="nav justify-content-center">
             {% for lien, titre  in MENU %}
             <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="{{lien}}">{{titre}}</a>
+                <a class="nav-link active link-light" aria-current="page" href="{{lien}}">{{titre}}</a>
             </li>
             {% endfor %}
         </ul>
