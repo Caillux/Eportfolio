@@ -2,32 +2,28 @@
     
     {% include 'head.html' %}
     
-    <body>
+    <body class="gap-3">
 		{% include 'header.html'%}
 
-		{% include 'presentation.html'%}
 
-        <section id="mes_competences">
-            <div id="titre_competences">
-                <h2>{{TITRE_COMPETENCES}}</h2>
-            </div>
-			<section id="les_competences">
-                
+        <section id="mes_competences" class="container d-flex flex-column align-items-center pt-3">
+        <!-- <section id="mes_competences" class="container column align-items-center"> -->
+            <div id="titre_competences" class="pt-3"><h2>{{TITRE_COMPETENCES}}</h2></div>
+			<div id="les_competences" class="grid justify-content-center row-gap-3 column-gap-3  row pt-3">
                 {% set indice = 0 %}
                 {% for i in range(LIENS | length) %}
-                    <a href= #{{LIENS[i]}}>
-                        <div class={{NUM_COMPETENCE[i]}}>
+                    <div div={{NUM_COMPETENCE[i]}} class="col-5 pt-2 text-bg-secondary rounded-4 text-center">
+                        <a href= #{{LIENS[i]}} class="link-light">
                             <h3>{{COMPETENCES[i][0]}}</h3>
                             <ul>
                                 {% for titre in COMPETENCES[i][1] %}
                                     <li>{{titre}}</li>
                                 {% endfor %}
                             </ul>
-                        </div>
-                    </a>
-                    {% endfor %}
-                    
-			</section>
+                        </a>
+                    </div>
+                {% endfor %}
+                </div>
 		</section>
 
         <section id="realisations">

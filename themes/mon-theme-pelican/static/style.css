@@ -1,11 +1,11 @@
-*{
+/* *{
 	box-sizing: border-box;
-}
+} */
 
 html
 {
 	scroll-behavior: smooth;
-    line-height : 150%;
+    /* line-height : 150%; */
 }
 
 body{
@@ -19,7 +19,7 @@ h1, h2, h3
     text-transform: uppercase;
 }
 
-h2
+/* h2
 {
     font-size: 35px;
 }
@@ -37,7 +37,7 @@ ul
 head
 {
     color: white;
-}
+} */
 
 /* #menu
 {
@@ -184,7 +184,7 @@ a:visited
     transition:0.5s;
 } */
 
-#realisations
+/* #realisations
 {
     margin: 50px 0px;
 }
@@ -212,9 +212,9 @@ a:visited
     flex-direction: column;
     justify-content:space-around; 
     padding: 0px 150px;
-}
+} */
 
-#les_realisations img
+/* #les_realisations img
 {
     width: 100%;
     border: 1px solid black;
@@ -362,4 +362,4 @@ footer
 #contact2 img
 {
     float: right;
-}
+} */

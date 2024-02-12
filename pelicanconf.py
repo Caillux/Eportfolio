@@ -50,7 +50,8 @@ MENU = (
 
 TITRE_COMPETENCES = 'Mes compétences'
 
-NUM_COMPETENCE = ('competence1', 'competence2', 'competence3', 'competence4', 'competence5' )
+NUM_COMPETENCE = ('competence1.1', 'competence1.2', 'competence1.3', 'competence1.4', 'competence1.6' )
+
 
 COMPETENCES = (
     (
