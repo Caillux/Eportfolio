@@ -10,13 +10,33 @@ html
 
 body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: black;
 }
 
-h1, h2, h3
+h1, h2, h3, h4
 {
     font-weight: bold;
     text-transform: uppercase;
+}
+
+#menu a:hover
+{
+    background-color: gray;
+    color: burlywood;
+    padding: 20px 20px;
+    border-radius: 5px;
+}
+
+img
+{
+    width: 40%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    border: 1px solid black;
+}
+
+#contact2 img
+{
+    width: 100%;
 }
 
 /* h2
@@ -230,15 +250,6 @@ a:visited
     border: 2px solid gray;
     border-radius: 50px ;
     text-align: center;
-}
-
-
-#AMAphp_1a img
-{
-    width: 40%;
-    padding-top: 0%;
-    padding-bottom: 0%;
-    border: 1px solid black;
 }
 
 #Creation_session_SNCF img

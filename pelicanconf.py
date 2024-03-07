@@ -36,6 +36,7 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 THEME = 'themes/mon-theme-pelican'
+THEME_STATIC_DIR = 'themes/mon-theme-pelican/static'
 CSS_FILE = 'style.css'
 
 SITUATION = 'Étudiant en BTS SIO option SLAM'
