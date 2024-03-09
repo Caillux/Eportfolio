@@ -27,7 +27,7 @@ l'Interface devait disposer également de bouton "ajouter", "modifier", "supprim
 et le bouton "supprimer" afficherai un pop-up de confirmation qui permmettra la suppression de la ligne selectionnée.
 
 Axilta'2 :
-![image](./theme/images/stage_axis/Axilta2_menu.PNG)
+![image](./themes/mon-theme-pelican/static/images/stage_axis/Axilta2_menu.PNG)
 
 à partir de cette fentre de formation on devait pouvoir acceder à 
 **La fiche de formaion**
