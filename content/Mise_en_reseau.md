@@ -58,7 +58,7 @@ salle informatique de manière à permettre à l’enseignant, s’il le souhait
 « travail sur poste » à une zone « travail sur table » avec ses apprenants. Cette zone existe en
 A207/A210/A214 mais pas en A212 (exemples)
 
-![mon image](./theme/images/Mise_en_reseau/Cablage_de_salles.PNG)
+![mon image](./themes/mon-theme-pelican/static/images/Mise_en_reseau/Cablage_de_salles.PNG)
 
 * 2.Un document au format tableur (sous forme de devis) indiquant la liste des références (issues du site
 web d’Abix uniquement) à acheter pour réaliser le projet. Vous ne tiendrez pas compte de la main

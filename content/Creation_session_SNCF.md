@@ -17,8 +17,8 @@ Réalisation d’un projet de gestion des erreurs en groupe de 2 personnes.
 
 La SNCF emplois des millier de salarié, ces différents salariés doivent pour mener à bien leurs tâche suivre des formations geré par la SNCF elle-même. L'entreprise utilise donc pour cela une application de gestion de formation de ces salariés. Nous avions à résoudre les problèmes liés à la création de session de cette dernière.
 
-![mon image](./theme/images/creation_session/gestion_formation_menu.png) ![mon image](./theme/images/creation_session/gestion_formation_activite.png) 
-![mon image](./theme/images/creation_session/gestion_formation_action.png) ![mon image](./theme/images/creation_session/gestion_formation.png) 
+![mon image](./themes/mon-theme-pelican/static/images/creation_session/gestion_formation_menu.png) ![mon image](./themes/mon-theme-pelican/static/images/creation_session/gestion_formation_activite.png) 
+![mon image](./themes/mon-theme-pelican/static/images/creation_session/gestion_formation_action.png) ![mon image](./themes/mon-theme-pelican/static/images/creation_session/gestion_formation.png) 
 
 Le but de cette mission était d’analyser l'application de gestion de Session de formation afin de trouver les différentes erreurs du programme ou valeur aberrante possible dans la partie création de session de l’application pour ajouter une gestion de ces erreurs. Pour cela il était demandé de créer un ticket par problème de valeur trouver lors des différents tests d’entrée de valeur dans les différents champs de l’application, et de régler et ajouter la gestion de l’erreur sur une branche prévue à la résolution du ticket.
 

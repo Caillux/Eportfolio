@@ -12,11 +12,11 @@ style: contenu
 ###Gestion de ticket d'une application web de gestion de panier et de paysans AMAphp
 
 ####Contexte
-![mon image](./theme/images/AMAphp/acceuil_AMAphp.png)
+![mon image](./themes/mon-theme-pelican/static/images/AMAphp/acceuil_AMAphp.png)
 
 Réalisation d'un projet de gestion de ticket dans le contexte du projet AMAP avec l'application web AMAphp sous la version 1a.
 Pour cette mission plusieurs rapports d’erreur dans l'application on était fait, nous avions à choisir un de ces rapports d’erreurs à traiter (ce choix était irréversible).
-![mon image](./theme/images/AMAphp/ticket_incident.png)
+![mon image](./themes/mon-theme-pelican/static/images/AMAphp/ticket_incident.png)
 
 Nous avions ensuite créé un ticket sur la forge logicielle framagit qui visée à répondre à la problématique de ce rapport d'erreur. 
 
@@ -29,7 +29,7 @@ Le ticket produit sur framagit devait contenir
 - Les actions réalisées en fonction des corrections trouvées
 - Les incidents et modifications des actions par rapport aux corrections envisagées.
 
-![mon image](./theme/images/AMAphp/ticket_framagit.png)
+![mon image](./themes/mon-theme-pelican/static/images/AMAphp/ticket_framagit.png)
 
 Suite à la création de ce ticket on devait implémenter le code de la solution envisagée dans le ticket framagit, puis pousser la modification sur la forge logicielle sur une branche distincte à la résolution du ticket.
 

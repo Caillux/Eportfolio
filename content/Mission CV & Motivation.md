@@ -37,5 +37,5 @@ Pour cette mission nous avions à notre disposition :
 - **B1.6.3 Développer son projet professionnel**
 - (Par l'élaboration d'une lettre de motivation d'une entreprise choisi afin de pouvoir effectuer un stage en environnement professionnel dans la branche de métier envisagé)
 
-![mon image](./theme/images/prep_candidature/cv.png)
-![mon image](./theme/images/prep_candidature/lettre_de_motivation.png)
+![mon image](./themes/mon-theme-pelican/static/images/prep_candidature/cv.png)
+![mon image](./themes/mon-theme-pelican/static/images/prep_candidature/lettre_de_motivation.png)
