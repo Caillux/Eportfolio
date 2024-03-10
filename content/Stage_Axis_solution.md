@@ -9,12 +9,14 @@ Summary: Mission durant le stage de fin de première année du BTS SIO, dans l'e
 type: SLAM
 style: contenu
 
+### Stage de 1er année (Axis Solution)
+
 #### Contexte 
 La societer Axis est certifier Qualiopi. cette certification vise à attester la qualité du processus de formation. Le fonctionnement interne était avec des tableaux de suivi 
 Excel. Le but du developpement était d'amelioré le fonctionnement mais aussi le suivi de formation afin de ne pas oublier de document. De plus il avait aussi pour but de 
 génerer des documents automatiques afin de faire gagner du temps en termes de fonctionnement.
 
-Le developpement devait être implémenter pour une version du logiciel de gestion de l'entreprise Axilta. Pour cela à partir d'un clone du projet Axilta'2 je devait prévoir
+Le developpement devait être implémenter pour une version du logiciel de gestion de l'entreprise, Axilta. Pour cela à partir d'un clone du projet Axilta'2 je devait prévoir
 et implémenter un bouton "formation" dans le menu "vente" de l'application qui ouvrirai une fenêtre qui permettra de lister les formations avec comme informations :
 - un Libellé
 - le Client
@@ -66,7 +68,7 @@ Pour chaque type de formation il devait être posible de renseigner 1 ou plusieu
 
 Pour chaque formation il devait être possible de sélectionner 1 ou plusieurs interlocuteurs du client(sociéter) et l'interface devait permettre l'ajout de nouveaux 
 interlocuteurs sur la fiche client de la formation
-Depuis la fiche formation il devait être possible de génerer les documents et les sauvegarder dans le répertoire souhaité
+Depuis la fiche formation il devait être possible de génerer les documents et les sauvegarders dans le répertoire souhaité
 pour chaque document il fallait pouvoir renseigner 
 - la date
 - la date de reçu
@@ -76,7 +78,7 @@ pour chaque document il fallait pouvoir renseigner
 - chemin d'email reçu (lo'email de reçu)
 - la validation
 
-suite à l'analyse de l'application à l'aide de l'IDE WinDev et des différente table de donnée de la base à l'aide 
+suite à l'analyse de l'application à l'aide de l'IDE de WinDev et des différente table de donnée de la base à l'aide 
 du logiciel Microsoft SQL server management studio 18 et Azure Data Studio
 il était necessaire de crée 5 nouvelles Tables
 - Formation
@@ -84,6 +86,8 @@ il était necessaire de crée 5 nouvelles Tables
 - formation_doc
 - Type_chronologie
 - formation_doc_client
+
+![image](./themes/mon-theme-pelican/static/images/stage_axis/Microsoft Sql Server Manager (création de table).PNG)
 
 en relation avec des tables deja existante dans la base de donnée (ex TABLE : DocumentWord / TABLE : client)
 qui serviront à la création d'une fenêtre de gestion de formations qui les listera et permettra la modification de 
@@ -100,21 +104,26 @@ Toujour sur le logiciel WinDev, la programation sur ce logiciel peut etre en fra
 pour le logiciel Axilta'2 le code était en francais  
 
 rajouter l'aspect de recherche (language nouveau, site utilisé etx)
+Ce travail à necessessité une prise en main du language et logiciel de programation WinDev en utilisant notament la documentation officel de **PC SOFT** (très detaillé et précise et intégralement en françcais)
+![image](./themes/mon-theme-pelican/static/images/stage_axis/PCSOFT doc.PNG)
+Il a ensuite été nécessaire de faire une veille active afin de pouvoir accomplir chaques tâches et fonctions de l'applicxation. Pour cela je me suis servi de :
+- la Documentation offcielle WinDev (windev.com)
+- SQL.sh (SQL) 
+- developpez.com, WDF (forum d'entraide de developpement)
 
-
-
-
+Cette mission à permis de mobiliser les compétences apprisent en SQL avec l'ajout des tables et la manipulation des données de l'application
+les compétences de recherches et de veilles ainsi que un developpement de la logique métier du developpemnt
 
 #### envirronnement technologique
 - clone du logiciel Axilta'2
-- IDE windev
+- IDE et language windev
 - Windows
 - base de donnée MYSQL
 - windows azure
 
 #### Compétences mobilisés
-- recherche approfondis de la doc ou de forum spécialisé dev pour trouvé des solutions 
-- projet avec une vision logistich clair avec chef de projet
+- Recherche approfondis de la doc ou de forum spécialisé dev pour trouvé des solutions 
+- Projet avec une vision logistich clair avec chef de projet
 - Etude de code existant et modification ou utilisation pour faire de nouvelle fonctionnalité
-- gestion de bug
-- test
+- Gestion de bug
+- Test
