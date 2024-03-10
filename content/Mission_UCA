@@ -22,7 +22,12 @@ Le departement s'occupe de différence application en lien avec l'ENT et les out
 
 J'ai été affecter au menu d'acceuil de l'ENT
 le design du site internet de l'univérsité ayant fait l'objet d'une refonte graphique il a été juger interréssant de modifier l'ENT pour coller à la nouvelle charte graphique de l'UCA
-l'ENT a donc fait l'objet d'une refonte integrale que ce soit du design et du fonctionnement (nom de dmaine etc...)
+l'ENT a donc fait l'objet d'une refonte integrale que ce soit du design et du fonctionnement (nom de domaine etc...)
+lors de mon stage ce nouveaux menu était en phase de test et ouvert une certaine population (utilisateur avec comme role "personnel")
+
+ma mission consistait à l'implémentation de widget raccourcis dans le nouveaux menu de l'application
+
+
  
 
 **Programation**  
