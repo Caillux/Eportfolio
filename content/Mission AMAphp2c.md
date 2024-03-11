@@ -46,11 +46,31 @@ auquel cas il ne validé pas la solution, il rédigait un commentaire sur le tic
 
 **Mes missions**
 
-Mes missions consister à
+Mes missions consistait à :
+
+- Lister les contrats par date de distribution
+    Il a donc fallut modifier la base de donnée pour qu’elle prenne en compte les prochaines dates de distributions. Puis se servir de cette dernière pour récupérer le nombre de contrat en cours pour chaque paysan à la date de distribution visée.
+    Crée un lien 'Consultation des contrats par date de distribution' qui mène a une page qui retourne un tableau qui possède autant de colonne que de paysan avec des paniers enregistrés et qui liste le nombre de contrat pour chaque paysan à la date donnée.
+    cela passait par :
+        - la création d'une classe DAO
+        - la création d'une methode dans le controller des contrats de l'application
+        - la création d'un template twig qui affiche un tableau avec autant de colonne que de paysans enregistré dans la base, affiche par ligne et dans la colonne du paysan le nombre de contrat pour ce dernier à la date donnée et créer un lien sur le nombre de contrat qui mène à une autre page qui liste les contrats pour le paysan
+        - la création des différents tests
+        - il a egalement fallut prendre en compte les autorisation d'accès ("admin" ou "user")
+- Mise en production
 
 #### Environnement technologique
+
+- pc sous linux (Debian)
+- php
+- symfony
+- framagit (dépot) et git
 
 #### Compétences mobilisé
 
 Cette mission a demandé la mobilisation des compétences suivantes :
+
+- **B1.2.3 Traiter des demandes concernant les applications**
+- **B1.4.1 Analyser les objectifs et les modalités d’organisation d’un projet**
+- **B1.4.2 Planifier les activités**
 
