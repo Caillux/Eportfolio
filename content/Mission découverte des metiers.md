@@ -50,7 +50,7 @@ puis par groupe de deux nous avions pour mission de faire une recherche sur les 
 
 et permettre la création d'un shéma représentant les différentes associations des métiers et les technologies trouvées à l'aide du logiciel libre de mindmap FreeMind.
 
-![mon image](./theme/images/decouverte_metier/Technologie.png)
+![mon image](./themes/mon-theme-pelican/static/images/decouverte_metier/Technologie.png)
 
 Suite à cette recherche, toujours par groupe de deux sur un des métiers présenté choisi pars le professeur nous devions présenter le métier à l'oral devant la classe avec comme mode de présentation un diaporama réaliser sur un logiciel libre tel que Libre Office Impress.
 cette présentation devait porter sur :
@@ -62,7 +62,7 @@ et respecter les règle suivante :
 
 - -La définissions d'un gabarit personnel : la présentation ne devait pas reposer sur un modèle existant mais sur un style correspondant à la charte graphique définie par le logo 2lo, une entreprise fictif servant de support pour l'atelier. 
 
-![mon image](./theme/images/2lo.png)
+![mon image](./themes/mon-theme-pelican/static/images/2lo.png)
 
 - -Intégrer différents media (image, vidéo, texte)
 - -La présentation devai respecter le droit d'auteur : les sources utilisées (image, vidéo, texte) devaient être compatibles avec son usage (présentation à un client)

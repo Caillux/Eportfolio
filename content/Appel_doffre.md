@@ -18,15 +18,15 @@ dans le cadre de cette mission nous travaillions pour ITPartner, une entreprise 
 qui intervient partout en France, au service de nos clients, sur des projets de fourniture de matériel informatique,
 d’infogérance, de délégation de Personnel, d’Audit, et de Conseil en Gestion de Projet.
 
-![mon image](./theme/images/appel_doffre/logo_itparter.png)
+![mon image](./themes/mon-theme-pelican/static/images/appel_doffre/logo_itparter.png)
 
 Nous devions consulter et traiter un appel d'offre fait par le lycée Albert Londres cusset
 La consultation portait sur la fourniture et la livraison, sans installation, sur site et
 dans trois bâtiments différents, de matériels informatiques dont les configurations
 sont présenter ci-dessous
 
-![mon image](./theme/images/appel_doffre/capture_config_1.png) ![mon image](./theme/images/appel_doffre/capture_config_2.png)
-![mon image](./theme/images/appel_doffre/capture_config_3.png)
+![mon image](./themes/mon-theme-pelican/static/images/appel_doffre/capture_config_1.png) ![mon image](./themes/mon-theme-pelican/static/images/appel_doffre/capture_config_2.png)
+![mon image](./themes/mon-theme-pelican/static/images/appel_doffre/capture_config_3.png)
 
 en tant que prestataire nous devions fournir :
 
@@ -40,8 +40,8 @@ quantité, la date, les informations de l’entreprise et du client concerné, l
 prix HT et les prix calculés TTC (TVA 20 %, sous totaux HT, total HT, total
 TTC, son prix (HT ou TTC)).
 
-![mon image](./theme/images/appel_doffre/capture_devis_1.png) ![mon image](./theme/images/appel_doffre/capture_devis_2.png)
-![mon image](./theme/images/appel_doffre/capture_devis_3.png)
+![mon image](./themes/mon-theme-pelican/static/images/appel_doffre/capture_devis_1.png) ![mon image](./themes/mon-theme-pelican/static/images/appel_doffre/capture_devis_2.png)
+![mon image](./themes/mon-theme-pelican/static/images/appel_doffre/capture_devis_3.png)
 
 - Une documentation technique au format numérique (pdf) de certains
 composants et périphériques (carte mère, écran, portable du constructeur

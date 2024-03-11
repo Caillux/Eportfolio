@@ -1,25 +1,45 @@
-*{
+/* *{
 	box-sizing: border-box;
-}
+} */
 
 html
 {
 	scroll-behavior: smooth;
-    line-height : 150%;
+    /* line-height : 150%; */
 }
 
 body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: black;
 }
 
-h1, h2, h3
+h1, h2, h3, h4
 {
     font-weight: bold;
     text-transform: uppercase;
 }
 
-h2
+#menu a:hover
+{
+    background-color: gray;
+    color: burlywood;
+    padding: 20px 20px;
+    border-radius: 5px;
+}
+
+img
+{
+    width: 40%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    border: 1px solid black;
+}
+
+#contact2 img
+{
+    width: 100%;
+}
+
+/* h2
 {
     font-size: 35px;
 }
@@ -37,51 +57,37 @@ ul
 head
 {
     color: white;
-}
+} */
 
-#menu
+/* #menu
 {
     position: fixed;
     top: 0%;
     left: 0%;
     right: 0%;
-    z-index: 5;
-}
-
-#menu ul
-{
     background-color: black;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    padding: 0%;
-    margin-left: -15px;
-    margin-top: -8px;
-    margin-bottom: 0px;
-    margin-right: -0.5%;
-    color: white;
+    z-index: 5;
 }
 
 #menu a
 {
     color:white;
-    padding: 22px 22px;
+    padding: 20px 20px;
     font-size: 15px;
     font-weight: bold;
     text-transform: uppercase;
-    margin: 0px 15px;
     transition: 0.5s;
-}
+} */
 
-#menu a:hover
+/* #menu a:hover
 {
     background-color: gray;
     color: burlywood;
-    padding: 22px 22px;
+    padding: 20px 20px;
     border-radius: 5px;
-}
+} */
 
-a
+/* a
 {
     text-decoration: none;
 }
@@ -89,9 +95,9 @@ a
 a:visited
 {
     color: white;
-}
+} */
 
-#presentation
+/* #presentation
 {
     display: flex;
     flex-direction: column;
@@ -102,40 +108,41 @@ a:visited
     margin-left: -10px;
     padding-top: 5%;
     padding-bottom: 5%;
-}
+} */
 
 #presentation img
 {
-    display: flex;
-    width: 20%;
-    border-radius: 150px;
+    /* display: flex; */
+    /* width: 20%; */
+    border-radius: 200px;
     filter:blur(1px);
-    margin-bottom: 50px;
+    /* margin-bottom: 50px; */
 
 }
-#presentation h1, h2
+
+/* #presentation h1, h2
 {
     text-align: center;
     width: 25%;
-}
+} */
 
-#presentation h1
+/* #presentation h1
 {
     font-size: 40px;
 }
 #presentation h2
 {
     font-size: 25px;
-}
+} */
 
-#mes_competences
+/* #mes_competences
 {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
 }
 #titre_competences
-{
+{m
     display: flex;
     flex-direction: row;
     justify-content:center;
@@ -195,9 +202,9 @@ a:visited
     color:black;
     opacity: 100%;
     transition:0.5s;
-}
+} */
 
-#realisations
+/* #realisations
 {
     margin: 50px 0px;
 }
@@ -225,9 +232,9 @@ a:visited
     flex-direction: column;
     justify-content:space-around; 
     padding: 0px 150px;
-}
+} */
 
-#les_realisations img
+/* #les_realisations img
 {
     width: 100%;
     border: 1px solid black;
@@ -243,15 +250,6 @@ a:visited
     border: 2px solid gray;
     border-radius: 50px ;
     text-align: center;
-}
-
-
-#AMAphp_1a img
-{
-    width: 40%;
-    padding-top: 0%;
-    padding-bottom: 0%;
-    border: 1px solid black;
 }
 
 #Creation_session_SNCF img
@@ -375,4 +373,4 @@ footer
 #contact2 img
 {
     float: right;
-}
+} */
