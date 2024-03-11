@@ -9,9 +9,9 @@ Summary: Mission réalisation du site de présentation du réseau AMAP Auvergne 
 type: SLAM
 style: contenu
                     
-###Réalisation du site de présentation du réseau AMAP Auvergne avec DjangoCMS
+### Réalisation du site de présentation du réseau AMAP Auvergne avec DjangoCMS
 
-####Contexte
+#### Contexte
 
 Cette mission consister à l'étude des systèmes de gestion de contenu (CMS).
 Nous disposions d'une machine virtuelle **LAMP** sur laquelle des CMS était installés est accessible via des adresses locales pousser par un serveur **Apache**
@@ -20,14 +20,14 @@ du réseau AMAP Auvergne.
 
 La mission consister à gérer le site du réseau des AMAP Haut-normand en ajoutant et gérant en tant qu'administrateur du site les différentes pages et fonctionnalités associer.
 
-####Environnement technologique
+#### Environnement technologique
 
 - -Django CMS ()
 - -Serveur Apache (pousse les machine virtuel LAMP)
 - -Machine virtuelle LAMP (poussé par le serveur Apache)
 - -GNU/Linux Debian
 
-####Compétences mobilisé
+#### Compétences mobilisé
 
 Cette activité a permis de travailler les compétences du sous bloc "Développer la présence en ligne de l’organisation" avec :
 

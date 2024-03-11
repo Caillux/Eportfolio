@@ -11,9 +11,9 @@ image2: lettre_de_motivation.png
 type: SLAM
 style: contenu
 
-###Préparation d'une candidature 
+### Préparation d'une candidature 
 
-####Contexte
+#### Contexte
 
 Réalisation d’un CV et de Lettres de Motivation en vue de postuler en tant que stagiaire SLAM dans une véritable entreprise axée sur le Développement, contenant les éléments, les compétences informatiques de notre formation ainsi que l’expérience professionnelle que nous avions. À l’aide des styles du logiciel Libre Office pour concevoir la charte graphique du CV.
 -->cela ma permis de découvrir l’utilisation des styles pour la création d’une charte graphique.
@@ -23,14 +23,15 @@ Cette mission a également fait l’objet de la réalisation de lettre de motiva
 
 Cette mission a permis de pouvoir développer mon projet professionnel en recherchant et déterminant une entreprise ou postuler ainsi qu'en accomplissant un CV et une lettre de motivation en rapport avec la demande de stage envisagée. Me permettant dans le même temps de pouvoir commencer la création de mon identité professionnel.
 
-####Environnement technologique
+#### Environnement technologique
 
 Pour cette mission nous avions à notre disposition : 
+
 - Un ordinateur sous GNU/Linux Debian
 - Un annuaire économique de la ville de vichy (bassin local) 
 - Le logiciels Libre Office avec comme consigne l'utilisation des styles personnalisés
 	
-####Cette mission a mis en place les prémissent de mon identité professionnelle en mobilisant les compétences :
+#### Cette mission a mis en place les prémissent de mon identité professionnelle en mobilisant les compétences :
 
 - **B1.6.3 Gérer son identité professionnelle**
 - (Par la création de support (cv) permettant la création d'une idetité professionnel avec les différentes informations personnelles et les compétences acquise)

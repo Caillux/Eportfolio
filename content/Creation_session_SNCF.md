@@ -9,9 +9,9 @@ Summary: Test d'une application de gestion de formation et gestions des erreur t
 type: SLAM
 style: contenu
                     
-###Gestion d'une application de création de session de formation de la SNCF
+### Gestion d'une application de création de session de formation de la SNCF
 
-####Contexte
+#### Contexte
 
 Réalisation d’un projet de gestion des erreurs en groupe de 2 personnes.
 
@@ -25,19 +25,20 @@ Le but de cette mission était d’analyser l'application de gestion de Session 
 Il a donc fallu dans un premier temps effectuer différents contrôle lors de la phase de travail préparatoire. Cette phase c’est fait en rentrant différentes valeurs aberrante (que l’application aurait dû refuser) dans les différents champs pour repérer les champs qui acceptaient des valeurs aberrantes et ainsi former le ticket conforme au champ et au problème rencontrer
 
 Les tickets crée à partir de la forge logicielle framagit devaient contenir une description détaillé du problème rencontré. afin que la 2ᵉ personne du binôme puisse comprendre et travailler sur le problème à son tour.
-A savoir:
+A savoir :
+
 - Une description du test effectuer
 - une description de l'erreur rencontré 
 - un détail sur le/les valeurs qui créaient le/les erreurs 
 
-####Environnement technologique
+#### Environnement technologique
 
 - Forge logiciel Framagit (création de ticket, ainsi que des branches associer à ces derniers)
 - Langage du programmation python
 - Logiciel Geany
 - Ordinateur sous GNU/Linux Debian.
 
-####Compétences mobilisé
+#### Compétences mobilisé
 
 Cette mission a demandé la mobilisation des compétences suivantes :
 
