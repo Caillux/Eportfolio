@@ -9,9 +9,9 @@ Summary: Gestion de ticket pour l'application web AMAphp version 1a
 type: SLAM
 style: contenu
 
-###Gestion de ticket d'une application web de gestion de panier et de paysans AMAphp
+### Gestion de ticket d'une application web de gestion de panier et de paysans AMAphp
 
-####Contexte
+#### Contexte
 ![mon image](./themes/mon-theme-pelican/static/images/AMAphp/acceuil_AMAphp.png)
 
 Réalisation d'un projet de gestion de ticket dans le contexte du projet AMAP avec l'application web AMAphp sous la version 1a.
@@ -35,7 +35,7 @@ Suite à la création de ce ticket on devait implémenter le code de la solution
 
 
 
-####Environnement technologique
+#### Environnement technologique
 
 \_Ces différents tickets devaient être crée à partir de\_
 
@@ -49,7 +49,7 @@ Utilisation de
 - -Frameword Symfony
 - -GNU/Linux Debian
 
-####Compétences mobilisé
+#### Compétences mobilisé
 
 Cette mission a demandé la mobilisation des compétences suivantes :
 

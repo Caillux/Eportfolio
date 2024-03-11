@@ -10,9 +10,9 @@ type: SISR
 style: contenu
 
 
-###Réponse à l'appel d'offre de mise en place de solution de pc fixe et portable
+### Réponse à l'appel d'offre de mise en place de solution de pc fixe et portable
 
-###Contexte
+### Contexte
 
 dans le cadre de cette mission nous travaillions pour ITPartner, une entreprise citoyenne experte en Fourniture et Services Informatiques basée à Lyon.
 qui intervient partout en France, au service de nos clients, sur des projets de fourniture de matériel informatique,
@@ -65,11 +65,11 @@ société ITPartner). Cette partie était en fait remplacée par la note individ
 
 
 
-####Environnement technologique
+#### Environnement technologique
 - logiciel de tableurs Microsoft Excel, réalisation du devis
 - Microsoft PowerPoint, Réalisation de la présentation oral (dans mon cas la présentation ne s'accompagnait pas d'une présentation) 
 
-####Compétences mobilisé
+#### Compétences mobilisé
 
 - **B1.1.2 Exploiter des référentiels, normes et standards adoptés par le prestataire informatique**
 - (adaptation du matériel choisi avec le matériel déjà existant chez le client, utilisation des logiciels et fichier demandés pour accomplir la production voulue (utilisation d'un document au format tableur)).

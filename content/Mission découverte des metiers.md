@@ -69,7 +69,7 @@ et respecter les règle suivante :
 - -Intégrer des liens vers les sources éventuelles
 - -réalisez un export de notre présentation dans un format publiable sur Internet (ex : format HTML).
     
-####Environnement technologique
+#### Environnement technologique
 
 Utilisation de
 
@@ -77,7 +77,7 @@ Utilisation de
 - -Logiciel LibreOffice Impress
 - -GNU/Linux Debian
 
-####Compétences mobilisé
+#### Compétences mobilisé
 
 Cette activité a permis de travailler les compétences du sous bloc "Organiser son developpement professionnel" avec :
 
