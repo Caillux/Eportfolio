@@ -15,17 +15,17 @@ style: contenu
 ![mon image](./themes/mon-theme-pelican/static/images/AMAphp/acceuil_AMAphp.png)
 
 Réalisation d'un projet de gestion de ticket dans le contexte du projet AMAP avec l'application web AMAphp sous la version 1a.
-Pour cette mission plusieurs rapports d’erreur dans l'application on était fait, nous avions à choisir un de ces rapports d’erreurs à traiter (ce choix était irréversible).
+Pour cette mission plusieurs rapports d’erreur dans l'application, on était fait, nous avions à choisir un de ces rapports d’erreurs à traiter (ce choix était irréversible.).
 ![mon image](./themes/mon-theme-pelican/static/images/AMAphp/ticket_incident.png)
 
-Nous avions ensuite créé un ticket sur la forge logicielle framagit qui visée à répondre à la problématique de ce rapport d'erreur. 
+Nous avions ensuite créé un ticket sur la forge logicielle framagit qui visait à répondre à la problématique de ce rapport d'erreur. 
 
 
 Le ticket produit sur framagit devait contenir 
 
 - Une description des incidents (la description et l'effet de l'incident)
 - une analyse des causes du problème qui conclue une analyse des corrections possibles
-- une analyse des Dépendances Fonctionnelles avec un shéma relationnel (si la correction envisagée demandée une modification des variables de la base de donnée).
+- une analyse des Dépendances Fonctionnelles avec un schéma relationnel (si la correction envisagée demandée une modification des variables de la base de données).
 - Les actions réalisées en fonction des corrections trouvées
 - Les incidents et modifications des actions par rapport aux corrections envisagées.
 
@@ -37,10 +37,10 @@ Suite à la création de ce ticket on devait implémenter le code de la solution
 
 #### Environnement technologique
 
-\_Ces différents tickets devaient être crée à partir de\_
+\_Ces différents tickets devaient être créé à partir de\_
 
 - -Gitlab-CE et expliquer avec précision l'incident rencontré et l'analyse de résolution du problème avant de commencer le code
-- -Sur une branche du dépot spécifique au ticket résolu
+- Sur une branche du dépôt spécifique au ticket résolu
 
 Utilisation de
 
@@ -54,8 +54,8 @@ Utilisation de
 Cette mission a demandé la mobilisation des compétences suivantes :
 
 - **B1.1.2 Exploiter des référentiels, normes et standards adoptés par le prestataire informatique**
- - (Acquis par l'apprentissage et l'utilisation du framework symfony).
+- (Acquis par l'apprentissage et l'utilisation du framework symfony).
 - **B1.2.3 Traiter des demandes concernant les applications**
-- (encore en cours d'acquisition mais un commencement de l'acquisition par le traitement des rapports d'incident utilisateurs).
+- (encore en cours d'acquisition, mais un commencement de l'acquisition par le traitement des rapports d'incident utilisateurs).
 - **B1.6 Mettre en œuvre des outils et stratégies de veille informationnelle**
 - 

@@ -5,17 +5,17 @@ Category: Python
 Tags: pelican, publishing
 Slug: découverte_metiers
 Authors: Gros damien
-Summary: Réalisation d'une recherche resultant une présentation oral sur un métier choisi par le professeur
+Summary: Réalisation d'une recherche résultant une présentation orale sur un métier choisi par le professeur
 type: SLAM
 style: contenu
                     
-#### Découverte des Métiers du developpement
+#### Découverte des Métiers du développement
 
 #### Contexte
 
-Cette mission était la première mission de la progression d'Atelier Professionnel. Elle avait pour but la découverte des métiers de l'informatique et leur rapport avec la spécialisation SLAM (Solution Logiciel et Application Métier) du BTS, pour permettre aux étudiants de réfléchir à leur avenir d'informaticien et ainsi de pouvoir faire un choix réfléchis sur la spécialité choisi au 2nd semestre qui leur permettrais d'atteindre le métier voulu.
+Cette mission était la première mission de la progression d'Atelier Professionnel. Elle avait pour but la découverte des métiers de l'informatique et leur rapport avec la spécialisation SLAM (Solution Logiciel et Application Métier) du BTS, pour permettre aux étudiants de réfléchir à leur avenir d'informaticien et ainsi de pouvoir faire un choix réfléchi sur la spécialité choisi aux 2nd semestre qui leur permettrait d'atteindre le métier voulu.
 
-Une présentation des métiers a d'abord était fait par le professeur :
+Une présentation des métiers a d'abord été faite par le professeur :
 
 a) Développement
 
@@ -40,7 +40,7 @@ c) Cybersécurité
 
 d) DevOps
 
-puis par groupe de deux nous avions pour mission de faire une recherche sur les technologies utilisées par les métiers suivant :
+Puis par groupe de deux, nous avions pour mission de faire une recherche sur les technologies utilisées par les métiers suivants :
 
 - Développement front-end ; Développement back-end ; Développement mobile ; Développement bureautique ;
 - Analyste / programmeur SQL ; Administrateur de base de données
@@ -48,26 +48,26 @@ puis par groupe de deux nous avions pour mission de faire une recherche sur les 
 - DevOps
 - Testeur – testeuse
 
-et permettre la création d'un shéma représentant les différentes associations des métiers et les technologies trouvées à l'aide du logiciel libre de mindmap FreeMind.
+Et permettre la création d'un schéma représentant les différentes associations des métiers et les technologies trouvées à l'aide du logiciel libre de mindmap FreeMind.
 
 ![mon image](./themes/mon-theme-pelican/static/images/decouverte_metier/Technologie.png)
 
-Suite à cette recherche, toujours par groupe de deux sur un des métiers présenté choisi pars le professeur nous devions présenter le métier à l'oral devant la classe avec comme mode de présentation un diaporama réaliser sur un logiciel libre tel que Libre Office Impress.
-cette présentation devait porter sur :
-    -le but du métier
-    -les différentes missions de ce corp de métier
-    -les différentes technologies utilisées
+Suite à cette recherche, toujours par groupe de deux sur un des métiers présenté choisi pars le professeur, nous devions présenter le métier à l'oral devant la classe avec comme mode de présentation un diaporama réalisé sur un logiciel libre tel que Libre Office Impress.
+Cette présentation devait porter sur :
+- le but du métier
+- les différentes missions de ce corps de métier
+- les différentes technologies utilisées
 
-et respecter les règle suivante :
+Et respecter les règle suivante :
 
-- -La définissions d'un gabarit personnel : la présentation ne devait pas reposer sur un modèle existant mais sur un style correspondant à la charte graphique définie par le logo 2lo, une entreprise fictif servant de support pour l'atelier. 
+- -La définition d'un gabarit personnel : la présentation ne devait pas reposer sur un modèle existant, mais sur un style correspondant à la charte graphique définie par le logo 2lo, une entreprise fictif servant de support pour l'atelier. 
 
 ![mon image](./themes/mon-theme-pelican/static/images/2lo.png)
 
-- -Intégrer différents media (image, vidéo, texte)
-- -La présentation devai respecter le droit d'auteur : les sources utilisées (image, vidéo, texte) devaient être compatibles avec son usage (présentation à un client)
-- -Intégrer des liens vers les sources éventuelles
-- -réalisez un export de notre présentation dans un format publiable sur Internet (ex : format HTML).
+- Intégrer différents média (image, vidéo, texte)
+- La présentation devait respecter le droit d'auteur : les sources utilisées (image, vidéo, texte) devaient être compatibles avec son usage. (présentation à un client)
+- Intégrer des liens vers les sources éventuelles
+- Réalisez un export de notre présentation dans un format publiable sur Internet (ex : format HTML).
     
 #### Environnement technologique
 
@@ -79,10 +79,9 @@ Utilisation de
 
 #### Compétences mobilisé
 
-Cette activité a permis de travailler les compétences du sous bloc "Organiser son developpement professionnel" avec :
+Cette activité a permis de travailler les compétences du sous-bloc "Organiser son développement professionnel" avec :
 
-- **B1.6.1 Metttre en place son envirronnement d'apprentissage personnel**
+- **B1.6.1 Mettre en place son environnement d'apprentissage personnel**
 
 - **B1.6.4 Développer son projet professionnel**
-- (Acquis par la recherche des différents métiers de l'informatiques, de leurs but et des technologies utilisés afin de choisir une spécialité en accord
-avec le métier visé)
+- (acquis par la recherche des différents métiers de l'informatiques, de leur but et des technologies utilisés afin de choisir une spécialité en accord avec le métier visé)
