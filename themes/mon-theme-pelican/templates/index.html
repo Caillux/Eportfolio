@@ -32,23 +32,23 @@
             </div>
             <section id="les_realisations" class=" d-flex flex-column gap-5">
                 {% if articles %}
-                    <div id ="real_slam" class="d-flex flex-column align-items-center gap-5 pt-2 pb-2">
-                        <h3>Réalisation orienté developpement</h3>
+                <h3>Réalisation orienté developpement</h3>
+                    <div id ="real_slam" class="grid justify-content-center row-gap-3 column-gap-3  row pt-3">
                         {% for article in articles_page.object_list %}
                             {% if article.type == "SLAM" %}
-                                <div id={{article.slug}} class="text-center border border-2 border-secondary-subtle rounded-4 p-4">
-                                    {{article.content}}
-                                </div>
+                                <a href="{{article.slug}}.html" class="col-5 pt-2 text-bg-secondary rounded-4 text-center"><div id={{article.slug}}>
+                                    {{article.summary}}
+                                </div></a>
                             {% endif %}
                         {% endfor %}
                     </div>
-                    <div id="real_sisr" class="d-flex flex-column align-items-center gap-5 pt-2 pb-4">
+                    <div id="real_sisr" class="grid justify-content-center row-gap-3 column-gap-3  row pt-3 pb-3">
                         <h3>Réalisation orienté réseau</h3>
                         {% for article in articles_page.object_list %}
                             {% if article.type == "SISR" %}
-                                <div id={{article.slug}} class="text-center border border-2 border-secondary-subtle rounded-4 p-4">
-                                    {{article.content}}
-                                </div>
+                                <a href="{{article.slug}}.html" class="col-5 pt-2 text-bg-secondary rounded-4 text-center"><div id={{article.slug}}>
+                                    {{article.summary}}
+                                </div></a>
                             {% endif %}
                         {% endfor %}
                     </div>
