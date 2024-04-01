@@ -5,7 +5,7 @@ Category: Python
 Tags: pelican, publishing
 Slug: Appel_doffre
 Authors: Gros damien
-Summary: Réponse d'une appel d'offre d'installation de solution de pc fixe et 		portable pour un établissement scolaire.
+Summary: Mission réponse à un appel d'offres de PC fixes et portables pour une salle de BTS SIO (contexte IT Partner)
 type: SISR
 style: contenu
 

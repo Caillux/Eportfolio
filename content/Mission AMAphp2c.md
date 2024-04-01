@@ -5,7 +5,7 @@ Category: Python
 Tags: pelican, publishing
 Slug: AMAphp_2c
 Authors: Gros damien
-Summary: Ajout de fonctionnalité par groupe de developpement pour l'application web AMAphp version 2c par la gestion de ticket. 
+Summary: Mission ajout de fonctionnalité par groupe de developpement pour l'application web AMAphp version 2c par groupe de développement (context AMAP).
 type: SLAM
 style: contenu
 

@@ -5,7 +5,7 @@ Category: Python
 Tags: pelican, publishing
 Slug: AMAphp_1a
 Authors: Gros damien
-Summary: Gestion de ticket pour l'application web AMAphp version 1a 
+Summary: Mission gestion d'incidents sur l'application AMAphp dans son itération 1a (contexte AMAP).
 type: SLAM
 style: contenu
 

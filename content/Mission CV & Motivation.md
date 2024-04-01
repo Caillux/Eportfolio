@@ -5,7 +5,7 @@ Category: Python
 Tags: pelican, publishing
 Slug: CV_Motivation
 Authors: Gros Damien
-Summary: Réalisation d'un CV et d'une lettre de motivation permettant de trouver et postuler dans une entreprise pour un stage de fin d'année.
+Summary: Mission création d'un CV et d'une lettre de motivation professionnelle, permettant de trouver et postuler dans une entreprise pour un stage de fin d'année.
 image: cv.png
 image2: lettre_de_motivation.png
 type: SLAM

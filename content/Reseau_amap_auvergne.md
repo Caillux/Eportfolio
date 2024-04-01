@@ -5,7 +5,7 @@ Category: Python
 Tags: pelican, publishing
 Slug: AMAP_auvergne
 Authors: Gros damien
-Summary: Mission réalisation du site de présentation du réseau AMAP Auvergne avec DjangoCMS
+Summary: Mission réalisation du site de présentation du réseau AMAP Auvergne avec DjangoCMS (contexte AMAP).
 type: SLAM
 style: contenu
                     

@@ -5,7 +5,7 @@ Category: Python
 Tags: pelican, publishing
 Slug: Axis_solution
 Authors: Gros damien
-Summary: Mission durant le stage de fin de première année du BTS SIO, dans l'entreprise Axis Solution
+Summary: Mission implémentation d’une solution de gestion des Formations sur l’application de l’entreprise, durant le stage de fin de première année du BTS SIO, dans l'entreprise Axis Solution
 type: SLAM
 style: contenu
 
