@@ -161,6 +161,7 @@ cython_debug/
 # pelican
 __pycache__/
 output
+public
 
 #ignore les fichier backup
 .backup

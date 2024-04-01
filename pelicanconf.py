@@ -51,7 +51,7 @@ MENU = (
 
 TITRE_COMPETENCES = 'Mes compétences'
 
-NUM_COMPETENCE = ('competence1.1', 'competence1.2', 'competence1.3', 'competence1.4', 'competence1.6' )
+NUM_COMPETENCE = ('competence1.1', 'competence1.2', 'competence1.3', 'competence1.4', 'competence1.5', 'competence1.6' )
 
 
 COMPETENCES = (
@@ -78,6 +78,13 @@ COMPETENCES = (
         ('B1.4.1 Analyser les objectifs et les modalités d’organisation d’un projet (acquisition : /5)',
         'B1.4.2 Planifier les activités (acquis)',
         'B1.4.3 Évaluer les indicateurs de suivi d’un projet et analyser les écarts (acquisition : /5)',)
+    ),
+
+    (
+        ('B1.5 : Mettre à disposition des utilisateurs un service informatique'),
+        ('B1.5.1 Réaliser les tests d’intégration et d’acceptation d’un service (acquisition : /5)',
+        'B1.5.2 Déployer un service (acquisition : /5)',
+        'B1.5.3 Accompagner les utilisateurs dans la mise en place d’un service (acquisition : /5)')
     ),
         
     (
@@ -108,14 +115,6 @@ ENTREPRISE = (
         'Lycée général et technologique Albert Londres,',
         'Bd du 8 mai 1945, 03300 Cusset',
         )
-
-LIENS = (
-    ('AMAphp_1a'),
-    ('Creation_session_SNCF'),
-    ('découverte_metiers'),
-    ('CV_Motivation'),
-    ('AMAP_auvergne')
-    )
 
 # a modifier
 

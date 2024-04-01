@@ -5,7 +5,7 @@ Category: Python
 Tags: pelican, publishing
 Slug: Mise_en_reseau
 Authors: Gros damien
-Summary: Réponse d'une appel d'offre d'installation de solution de mise en reseau d'une salle d'un établissement scolaire.
+Summary: Mission réponse à un appel d'offres de préparation et mise en réseau de 2 salles de BTS SIO (contexte IT Partner)
 type: SISR
 style: contenu
 

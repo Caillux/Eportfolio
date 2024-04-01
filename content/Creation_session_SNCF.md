@@ -5,7 +5,7 @@ Category: Python
 Tags: pelican, publishing
 Slug: Creation_session_SNCF
 Authors: Gros damien
-Summary: test d'une application de gestion de formation et gestions des erreurs trouvé par ticket en binôme 
+Summary: Mission gestion des sessions dans le contexte de formation à  la SNCF par binnôme.
 type: SLAM
 style: contenu
                     

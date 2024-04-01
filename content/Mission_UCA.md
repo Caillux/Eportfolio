@@ -5,7 +5,7 @@ Category: Python
 Tags: pelican, publishing
 Slug: stage_uca
 Authors: Gros damien
-Summary: Mission durant le stage de deuxième année dans l'Univérsité de L'UCA (Univérsité Clermont Auvergne)
+Summary: Mission implémentation de raccourci dans le menu de l’ENT de L’UCA, durant le stage de deuxième année dans l'Univérsité de L'UCA (Univérsité Clermont Auvergne) site de Aubière.
 type: SLAM
 style: contenu
 

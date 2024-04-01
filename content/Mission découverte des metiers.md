@@ -5,7 +5,7 @@ Category: Python
 Tags: pelican, publishing
 Slug: découverte_metiers
 Authors: Gros damien
-Summary: Réalisation d'une recherche résultant une présentation orale sur un métier choisi par le professeur
+Summary: Mission découverte des métiers et présentation oral sur un métier en particulier choisi par le professeur
 type: SLAM
 style: contenu
                     
