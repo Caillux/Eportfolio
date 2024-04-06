@@ -43,9 +43,6 @@ Les offres étaient ensuite appréciées en fonction des critères ci-dessous, s
 * Les caractéristiques techniques des produits proposés (30%). Les configurations minimales demandées devront être respectées sous peine de voir l’offre déclarée non conforme. Une configuration supérieure à la demande sera prise en compte pour l’estimation des caractéristiques techniques proposées.
 * La qualité des services associés (20%). Le titulaire précisera les modalités et les délais de livraison ainsi que les répartitions de compétence entre constructeur et vendeur, sa réactivité en cas de mise en jeu de la garantie. (non pris en compte pour la mission AP, nous appartenions tous à la société ITPartner). Cette partie était en fait remplacée par la note individuelle orale.
 
-
-
-
 #### Environnement technologique
 - logiciel de tableurs Microsoft Excel, réalisation du devis
 - Microsoft PowerPoint, Réalisation de la présentation orale (dans mon cas, la présentation ne s'accompagnait pas d'une présentation.) 

@@ -33,8 +33,6 @@ Le ticket produit sur framagit devait contenir
 
 Suite à la création de ce ticket on devait implémenter le code de la solution envisagée dans le ticket framagit, puis pousser la modification sur la forge logicielle sur une branche distincte à la résolution du ticket.
 
-
-
 #### Environnement technologique
 
 \_Ces différents tickets devaient être créé à partir de\_

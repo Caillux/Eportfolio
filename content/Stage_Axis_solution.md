@@ -122,7 +122,7 @@ Les compétences de recherches et de veilles ainsi qu'un développement de conna
 - windows azure
 
 #### Compétences mobilisés
-- **Mettre en œuvre des outils et stratégie de veille informationnelle**
+- **B.1.6.2 Mettre en œuvre des outils et stratégie de veille informationnelle**
 - Recherche approfondis de la doc ou de forum spécialisé dev pour trouver des solutions 
 - **B1.4.1 Analyser les objectifs et les modalités d’organisation d’un projet**
 - Projet avec une vision logistique clair avec chef de projet

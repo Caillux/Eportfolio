@@ -79,5 +79,8 @@ Cette mission était à l'origine le 2e ticket assigné cependant, il a été mi
 #### Compétences mobilisés
 
 - **B1.2.3 Traiter des demandes concernant les applications**
+- 
 - **B1.4.1 Analyser les objectifs et les modalités d’organisation d’un projet**
+- Prise en main du projet en vue d'atteindre l'objectif fixé (Ajouter des widget et les adapter sur le nouveau menu), tout en suivant l'organisation déjà établis par les membres de l'équipe et de l'organisation (utilisation des outils, respect de la normalisation etc...)
 - **B1.4.2 Planifier les activités**
+- planification de mon developpement pour respecter la date de mise en production des différents éléments et features de la page en vue de l'élargissement de la population de test

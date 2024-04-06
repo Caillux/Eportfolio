@@ -13,9 +13,9 @@ style: contenu
 
 #### Contexte
 
-Cette mission consisté à l'étude des systèmes de gestion de contenu (CMS). Nous disposions d'une machine virtuelle **LAMP** sur laquelle des CMS était installés est accessible via des adresses locales pousser par un serveur **Apache** Cette mission concernée le CMS libre et écrit en python **Django CMS* avec une adaptation du réseau AMAP Auvergne.
+Cette mission consisté à l'étude des systèmes de gestion de contenu (CMS). Nous disposions d'une machine virtuelle **LAMP** sur laquelle des CMS était installés est accessible via des adresses locales pousser par un serveur **Apache** Cette mission concernée le CMS libre et écrit en python **Django CMS** avec une adaptation du site du réseau AMAP Auvergne.
 
-La mission consisté à gérer le site du réseau des AMAP Haut-normand en ajoutant et gérant en tant qu'administrateur du site les différentes pages et fonctionnalités associer.
+La mission consistait à gérer le site du réseau des AMAP Haut-normand en ajoutant et gérant en tant qu'administrateur du site les différentes pages et fonctionnalités associer.
 
 #### Environnement technologique
 

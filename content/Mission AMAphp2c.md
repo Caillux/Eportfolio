@@ -68,6 +68,8 @@ Cela passait par :
 Cette mission a demandé la mobilisation des compétences suivantes :
 
 - **B1.2.3 Traiter des demandes concernant les applications**
+- traitement des tickets crée par un chef de projet
 - **B1.4.1 Analyser les objectifs et les modalités d’organisation d’un projet**
+- analyse du shéma fonctionnel en vue de connaître les objectifs de la mission et respect de l'organisation du chef de projet (écriture et notation des tickets crée et attribué au différentes personnes du projet)
 - **B1.4.2 Planifier les activités**
-
+- planification des tâches et de la durée de leurs réalisations en fonction de l'avancement des autres tâches des autres personnes du groupe 
