@@ -64,6 +64,7 @@ COMPETENCES = (
     (
         'B1.2 : Répondre aux incidents et aux demandes d’assistance et d’évolution',
         ('B1.2.1 Collecter, suivre et orienter des demandes (acquisition : /5)',
+        'B.1.2.2 Traiter des demandes concernant les services réseau et système, applicatifs',
         'B1.2.3 Traiter des demandes concernant les applications (acquisition : /5)')
     ),
     
@@ -90,6 +91,7 @@ COMPETENCES = (
     (
         ('B1.6 : Organiser son développement professionnel'),
         ('B1.6.1 Mettre en place son environnement d’apprentissage personnel (acquisition : /5)',
+        'B.1.6.2 Mettre en œuvre des outils et stratégie de veille informationnelle',
         'B1.6.3 Gérer son identité professionnelle (acquisition : /5)',
         'B1.6.4 Développer son projet professionnel (acquisition : /5)')
     )

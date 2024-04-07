@@ -55,5 +55,5 @@ Cette mission a demandé la mobilisation des compétences suivantes :
 - (Acquis par l'apprentissage et l'utilisation du framework symfony).
 - **B1.2.3 Traiter des demandes concernant les applications**
 - (encore en cours d'acquisition, mais un commencement de l'acquisition par le traitement des rapports d'incident utilisateurs).
-- **B1.6 Mettre en œuvre des outils et stratégies de veille informationnelle**
+- **B1.6.2 Mettre en œuvre des outils et stratégies de veille informationnelle**
 - 
