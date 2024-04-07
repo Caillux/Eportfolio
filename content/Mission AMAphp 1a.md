@@ -25,27 +25,27 @@ Le ticket produit sur framagit devait contenir
 
 - Une description des incidents (la description et l'effet de l'incident)
 - une analyse des causes du problème qui conclue une analyse des corrections possibles
-- une analyse des Dépendances Fonctionnelles avec un schéma relationnel (si la correction envisagée demandée une modification des variables de la base de données).
+- une analyse des Dépendances Fonctionnelles avec un schéma relationnel (si la correction envisagée demandait une modification des variables de la base de données).
 - Les actions réalisées en fonction des corrections trouvées
 - Les incidents et modifications des actions par rapport aux corrections envisagées.
 
 ![mon image](./themes/mon-theme-pelican/static/images/AMAphp/ticket_framagit.png)
 
-Suite à la création de ce ticket on devait implémenter le code de la solution envisagée dans le ticket framagit, puis pousser la modification sur la forge logicielle sur une branche distincte à la résolution du ticket.
+Suite à la création de ce ticket, on devait implémenter le code de la solution envisagée dans le ticket framagit, puis pousser la modification sur la forge logicielle sur une branche distincte à la résolution du ticket.
 
 #### Environnement technologique
 
-\_Ces différents tickets devaient être créé à partir de\_
+Ces différents tickets devaient être créé à partir de
 
-- -Gitlab-CE et expliquer avec précision l'incident rencontré et l'analyse de résolution du problème avant de commencer le code
+- Gitlab-CE et expliquer avec précision l'incident rencontré et l'analyse de résolution du problème avant de commencer le code
 - Sur une branche du dépôt spécifique au ticket résolu
 
-Utilisation de
+Utilisation de :
 
-- -PHP
-- -IDE NetBeans
-- -Frameword Symfony
-- -GNU/Linux Debian
+- PHP
+- IDE NetBeans
+- Frameword Symfony
+- GNU/Linux Debian
 
 #### Compétences mobilisé
 

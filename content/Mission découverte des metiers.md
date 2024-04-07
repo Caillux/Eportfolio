@@ -5,7 +5,7 @@ Category: Python
 Tags: pelican, publishing
 Slug: découverte_metiers
 Authors: Gros damien
-Summary: Mission découverte des métiers et présentation oral sur un métier en particulier choisi par le professeur
+Summary: Mission découverte des métiers , et présentation oral sur un métier en particulier choisi par le professeur
 type: SLAM
 style: contenu
                     
@@ -19,9 +19,9 @@ Une présentation des métiers a d'abord été faite par le professeur :
 
 a) Développement
 
-* Développeur / développeuse informatique
-* Développeur / développeuse web
-* Développeur / développeuse informatique (java)
+* Développeur/développeuse informatique
+* Développeur/développeuse web
+* Développeur/développeuse informatique (java)
 * Développeur – Développeuse Web (agilité, lead)
 * Développeur Full Stack
 * Développeur Application Mobile
@@ -29,7 +29,7 @@ a) Développement
 b) Bases de données
 
 - Administratrice Base de données
-- Administrateur de bases de données / Administratrice de bases de données (mysql)
+- Administrateur de bases de données/Administratrice de bases de données (mysql)
 - Programmeur SQL
 
 c) Cybersécurité
@@ -43,7 +43,7 @@ d) DevOps
 Puis par groupe de deux, nous avions pour mission de faire une recherche sur les technologies utilisées par les métiers suivants :
 
 - Développement front-end ; Développement back-end ; Développement mobile ; Développement bureautique ;
-- Analyste / programmeur SQL ; Administrateur de base de données
+- Analyste/programmeur SQL ; Administrateur de base de données
 - Webmestre
 - DevOps
 - Testeur – testeuse
@@ -52,7 +52,7 @@ Et permettre la création d'un schéma représentant les différentes associatio
 
 ![mon image](./themes/mon-theme-pelican/static/images/decouverte_metier/Technologie.png)
 
-Suite à cette recherche, toujours par groupe de deux sur un des métiers présenté choisi pars le professeur, nous devions présenter le métier à l'oral devant la classe avec comme mode de présentation un diaporama réalisé sur un logiciel libre tel que Libre Office Impress.
+Suite à cette recherche, toujours par groupe de deux sur un des métiers présenté choisi par le professeur, nous devions présenter le métier à l'oral devant la classe avec comme mode de présentation un diaporama réalisé sur un logiciel libre tel que Libre Office Impress.
 Cette présentation devait porter sur :
 - le but du métier
 - les différentes missions de ce corps de métier
@@ -67,11 +67,11 @@ Et respecter les règle suivante :
 - Intégrer différents média (image, vidéo, texte)
 - La présentation devait respecter le droit d'auteur : les sources utilisées (image, vidéo, texte) devaient être compatibles avec son usage. (présentation à un client)
 - Intégrer des liens vers les sources éventuelles
-- Réalisez un export de notre présentation dans un format publiable sur Internet (ex : format HTML).
+- Réalisez un export de notre présentation dans un format publiable sur Internet (Ex : format HTML).
     
 #### Environnement technologique
 
-Utilisation de
+Utilisation de :
 
 - -FreeMind
 - -Logiciel LibreOffice Impress
@@ -82,6 +82,6 @@ Utilisation de
 Cette activité a permis de travailler les compétences du sous-bloc "Organiser son développement professionnel" avec :
 
 - **B1.6.1 Mettre en place son environnement d'apprentissage personnel**
-- (commencer la découverte des différents métier de l'informatique pour ainsi pouvoir orienter sa recherche future)
+- (commencer la découverte des différents métiers de l'informatique pour ainsi pouvoir orienter sa recherche future)
 - **B1.6.4 Développer son projet professionnel**
 - (acquis par la recherche des différents métiers de l'informatiques, de leur but et des technologies utilisés afin de choisir une spécialité en accord avec le métier visé)

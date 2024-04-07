@@ -5,7 +5,7 @@ Category: Python
 Tags: pelican, publishing
 Slug: Creation_session_SNCF
 Authors: Gros damien
-Summary: Mission gestion des sessions dans le contexte de formation à  la SNCF par binnôme.
+Summary: Mission gestion des sessions dans le contexte de formation à la SNCF par binôme.
 type: SLAM
 style: contenu
                     
@@ -15,7 +15,7 @@ style: contenu
 
 Réalisation d’un projet de gestion des erreurs en groupe de 2 personnes.
 
-La SNCF emploie des milliers de salariés, ces différents salariés doivent pour mener à bien leur tâche suivre des formations gérer par la SNCF elle-même. L'entreprise utilise donc pour cela une application de gestion de formation de ces salariés. Nous avions à résoudre les problèmes liés à la création de session de cette dernière.
+La SNCF emploie des milliers de salariés, ces différents salariés doivent pour mener à bien leur tâche suivre des formations gérées par la SNCF elle-même. L'entreprise utilise donc pour cela une application de gestion de formation de ces salariés. Nous avions à résoudre les problèmes liés à la création de session de cette dernière.
 
 ![mon image](./themes/mon-theme-pelican/static/images/creation_session/gestion_formation_menu.png) ![mon image](./themes/mon-theme-pelican/static/images/creation_session/gestion_formation_activite.png) 
 ![mon image](./themes/mon-theme-pelican/static/images/creation_session/gestion_formation_action.png) ![mon image](./themes/mon-theme-pelican/static/images/creation_session/gestion_formation.png) 
@@ -44,7 +44,7 @@ Cette mission a demandé la mobilisation des compétences suivantes :
 - **B1.1.1 Recenser et identifier les ressources numériques**
 - (gestion de résolution des erreurs par le biais de communication et de validation de ticket)
 - **B1.1.2 Exploiter des référentiels, normes et standards adoptés par le prestataire informatique**
-- (Prise en main de l'application terminal et de son langage d'écriture (Python) pour traiter la demande et respect du PEP-8)
+- (Prise en main de l'application terminal et de son langage d'écriture (Python) Pour traiter la demande et respect du PEP-8)
 - **B1.2.1 Collecter, suivre et orienter des demandes**
 - (Test des différentes parties de l'application afin de créer un ticket, orienter la marche à suivre, l'attribuer à son binôme et de suivre sa résolution. )
 - **B1.2.3 Traiter des demandes concernant les applications**

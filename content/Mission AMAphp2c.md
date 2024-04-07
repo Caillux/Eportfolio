@@ -5,7 +5,7 @@ Category: Python
 Tags: pelican, publishing
 Slug: AMAphp_2c
 Authors: Gros damien
-Summary: Mission ajout de fonctionnalité par groupe de developpement pour l'application web AMAphp version 2c par groupe de développement (context AMAP).
+Summary: Mission ajout de fonctionnalité par groupe de développement pour l'application web AMAphp version 2c par groupe de développement (contexte AMAP).
 type: SLAM
 style: contenu
 
@@ -15,20 +15,20 @@ style: contenu
 
 Nous étions répartis par groupe (1 de 3 personnes et un autre de 4) pour réaliser deux missions qui avaient pour projet d'aboutir à un ajout de fonctionnalité pour l'application web AMAphp.
 Les deux groupes partaient de la même base à savoir la version 2c de l'application (AMAphp_2c) et devaient réaliser 2 missions bien distinctes.
-> Le 1er groupe (composé de 3 personnes) avait pour mission de Gérer les règlements des contrats et aboutir à une version AMAphp_2c1 de l'application.
+> Le 1er groupe (composé de 3 personnes) avait pour mission de gérer les règlements des contrats et aboutir à une version AMAphp_2c1 de l'application.
 
 > Le 2er groupe (composé de 4 personnes) avait pour mission, la gestion de la saison des paysans et aboutir à une version AMAphp_2c2 de l'application.
-Je faisais partie du 2e groupe, mes missions tournait donc autour de la version AMAphp_2c2.
+Je faisais partie du 2e groupe, mes missions tournaient donc autour de la version AMAphp_2c2.
 
 **Le contexte de la mission était le suivant :**
 
 Les amapiens souhaitent pouvoir ajouter, modifier, supprimer facilement les dates de distribution, qui devront être associées aux contrats. On vous demande de gérer les formulaires nécessaires ainsi qu'une vue récapitulative des distributions à venir et passés.
-Même si les dates de distribution hebdomadaires ont souvent lieu le même jour de la semaine : par exemple, tous les lundis, ou mardis, etc, elles devront rester librement éditables pour gérer les cas exceptionnels comme les jours fériés.
+Même si les dates de distribution hebdomadaires ont souvent lieu le même jour de la semaine : Par exemple, tous les lundis, ou mardis, etc. Elles devaient rester librement éditables pour gérer les cas exceptionnels comme les jours fériés.
 Les paysans partenaires souhaitent pouvoir visualiser leurs contrats en cours selon les différentes dates de distribution hebdomadaires. En effet, les contrats n'ayant pas tous la même date de début, l'application ne leur apporte que très peu de visibilité dans leur travail de composition des paniers hebdomadaire.
 
 #### réalisation de la mission
 
-Afin de réaliser la mission, nous travaillions sur le dépôt framagit, avec une gestion de version à l'aide de git et s'appuyer sur un diagramme des cas d'utilisation pour cahier des charges. Les différents commit devaient respecter une logique spécifique puisque nous codions sur une branche spécifique au numéro de notre ticket (ex: ticket-01). Enfin, notre code devait respecter les recommandation PSR.
+Afin de réaliser la mission, nous travaillions sur le dépôt framagit, avec une gestion de version à l'aide de git et s'appuyer sur un diagramme des cas d'utilisation pour cahier des charges. Les différents commits devaient respecter une logique spécifique puisque nous codions sur une branche spécifique au numéro de notre ticket (Ex: ticket-01). Enfin, notre code devait respecter les recommandations PSR.
 
 Ce projet a nécessité le passage de plusieurs étapes :
 
@@ -47,7 +47,7 @@ Mes missions consistaient à :
 
 - Lister les contrats par date de distribution
 Il a donc fallut modifier la base de données pour qu’elle prenne en compte les prochaines dates de distributions. Puis se servir de cette dernière pour récupérer le nombre de contrats en cours pour chaque paysan à la date de distribution visée.
-Crée un lien 'Consultation des contrats par date de distribution qui mène a une page qui retourne un tableau qui possède autant de colonne que de paysan avec des paniers enregistrés et qui liste le nombre de contrats pour chaque paysan à la date donnée.
+Crée un lien 'Consultation des contrats par date de distribution' qui mène a une page qui retourne un tableau qui possède autant de colonne que de paysan avec des paniers enregistrés et qui liste le nombre de contrats pour chaque paysan à la date donnée.
 Cela passait par :
 - la création d'une classe DAO
 - la création d'une méthode dans le contrôler des contrats de l'application
@@ -68,8 +68,8 @@ Cela passait par :
 Cette mission a demandé la mobilisation des compétences suivantes :
 
 - **B1.2.3 Traiter des demandes concernant les applications**
-- traitement des tickets crée par un chef de projet
+- traitement des tickets crée par un chef de projet.
 - **B1.4.1 Analyser les objectifs et les modalités d’organisation d’un projet**
-- analyse du shéma fonctionnel en vue de connaître les objectifs de la mission et respect de l'organisation du chef de projet (écriture et notation des tickets crée et attribué au différentes personnes du projet)
+- analyse du shéma fonctionnel en vue de connaître les objectifs de la mission et respect de l'organisation du chef de projet (écriture et notation des tickets créent et attribué au différentes personnes du projet.)
 - **B1.4.2 Planifier les activités**
 - planification des tâches et de la durée de leurs réalisations en fonction de l'avancement des autres tâches des autres personnes du groupe 

@@ -19,20 +19,16 @@ La mission consistait à gérer le site du réseau des AMAP Haut-normand en ajou
 
 #### Environnement technologique
 
-- -Django CMS ()
-- -Serveur Apache (pousse les machines virtuelles LAMP)
-- -Machine virtuelle LAMP (poussé par le serveur Apache)
-- -GNU/Linux Debian
+- Django CMS ()
+- Serveur Apache (pousse les machines virtuelles LAMP)
+- Machine virtuelle LAMP (poussé par le serveur Apache)
+- GNU/Linux Debian
 
 #### Compétences mobilisé
 
 Cette activité a permis de travailler les compétences du sous-bloc "Développer la présence en ligne de l’organisation" avec :
 
 - **B1.3.1 Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques**
-- (La gestion et l'agrémentation d'informations divers des pages du site AMAP et nécessaire pour présenter le fonctionnement et le principe du réseau AMAP ce qui permet la valorisation de l'image de l'organisation.
-Tout cela devait respecter un cadre légal et juridique en respectant les droits de licences autorisés)
+- (La gestion et l'ajout d'informations divers des pages du site AMAP et nécessaire pour présenter le fonctionnement et le principe du réseau AMAP ce qui permet la valorisation de l'image de l'organisation. Tout cela devait respecter un cadre légal et juridique en respectant les droits de licences autorisés.)
 - **B1.3.3 Participer à l’évolution d’un site web exploitant les données de l’organisation**
 - (Nous devions agrémenter le site de nouvelles fonctionnalités et gestions des données des comptes utilisateurs tout en faisant évoluer les différents temples du site du réseau AMAP.)
-
-
-
