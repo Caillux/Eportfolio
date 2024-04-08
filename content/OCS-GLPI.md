@@ -31,6 +31,8 @@ Je n'ai donc pas eu le temps de réaliser la petite partie sur GLPI dans le temp
 
 #### Compétences mobilisés
 
+- **B.1.1.1 Recenser et identifier les ressource numérique**
+- Mise en place d'une solution d'inventaire du matériel informatique
 - **B.1.2.2 Traiter des demandes concernant les services réseau et système, applicatifs**
 - Analyse d'erreur potentielle et traitement du problème au bon fonctionnement de l'installation et de la configuration.
 - **B.1.5.3 Accompagner les utilisateurs dans la mise en place d'un service**
